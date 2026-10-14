@@ -1,0 +1,889 @@
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.securitylab.ru
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://xakep.ru
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.comnews.ru/information_security
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.kommersant.ru/theme/1267
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://tass.ru/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://ria.ru/kiberbezopasnost
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.it-world.ru/security/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://securitymedia.org
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.infowatch.ru/analytics/novosti-ib
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://infobezopasnost.ru/blog/news/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://ict.moscow/projects/cybersecurity/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.gazeta.ru/tech
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://aif.ru/techno/web
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://safe.cnews.ru
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://habr.com/ru/hubs/infosecurity/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://rb.ru/tag/cybersecurity/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://3dnews.ru/security
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.computerra.ru/tag/security/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.itweek.ru/security/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.ixbt.com/live/security/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://overclockers.ru/tag/security
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://rg.ru/theme/technologies/internet/kiberbezopasnost/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://iz.ru/tag/kiberbezopasnost
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://ptsecurity.com/research/analytics/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://rt-solar.ru/events/news/
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.kaspersky.ru/about/press-releases
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://www.usergate.com/ru
+2026-10-14 22:07:00  ||  Добавлена ссылка fhttps://infotecs.ru
+2026-10-14 22:07:02  ||  Поиск Ollama на компьютере...
+2026-10-14 22:07:02  ||  Найдена Ollama: C:\Users\FiolineKuose\AppData\Local\Programs\Ollama\ollama.exe
+2026-10-14 22:07:04  ||  Ожидание ответа от ИИ-сервера...
+2026-10-14 22:07:08  ||  Ожидание ответа от ИИ-сервера...
+2026-10-14 22:07:11  ||  Ожидание ответа от ИИ-сервера...
+2026-10-14 22:07:11  ||  ИИ-движок успешно запущен и ответил.
+2026-10-14 22:07:11  ||  Проверка локальной модели 'gemma2:9b'...
+2026-10-14 22:07:11  ||  Модель 'gemma2:9b' установлена и готова к работе
+2026-10-14 22:07:11  ||  Сбор ссылок с целевых сайтов
+2026-10-14 22:07:11  ||  https://www.kommersant.ru/theme/1267: Собрано 48 потенциальных ссылок
+2026-10-14 22:07:11  ||  https://www.comnews.ru/information_security: Собрано 71 потенциальных ссылок
+2026-10-14 22:07:11  ||  https://www.securitylab.ru: Собрано 60 потенциальных ссылок
+2026-10-14 22:07:12  ||  https://tass.ru/: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:12  ||  https://www.it-world.ru/security/: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:12  ||  https://xakep.ru: Собрано 6 потенциальных ссылок
+2026-10-14 22:07:12  ||  https://ria.ru/kiberbezopasnost: Собрано 60 потенциальных ссылок
+2026-10-14 22:07:13  ||  https://www.infowatch.ru/analytics/novosti-ib: Собрано 11 потенциальных ссылок
+2026-10-14 22:07:13  ||  https://securitymedia.org: Собрано 65 потенциальных ссылок
+2026-10-14 22:07:14  ||  https://ict.moscow/projects/cybersecurity/: Собрано 205 потенциальных ссылок
+2026-10-14 22:07:14  ||  https://aif.ru/techno/web: Собрано 22 потенциальных ссылок
+2026-10-14 22:07:14  ||  https://infobezopasnost.ru/blog/news/: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:14  ||  https://safe.cnews.ru: Собрано 64 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://habr.com/ru/hubs/infosecurity/: Собрано 63 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://rb.ru/tag/cybersecurity/: Собрано 15 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://www.gazeta.ru/tech: Собрано 85 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://3dnews.ru/security: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://www.ixbt.com/live/security/: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://www.itweek.ru/security/: Собрано 41 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://overclockers.ru/tag/security: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://www.computerra.ru/tag/security/: Собрано 3 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://rg.ru/theme/technologies/internet/kiberbezopasnost/: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:15  ||  https://iz.ru/tag/kiberbezopasnost: Собрано 20 потенциальных ссылок
+2026-10-14 22:07:16  ||  https://ptsecurity.com/research/analytics/: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:16  ||  https://rt-solar.ru/events/news/: Собрано 7 потенциальных ссылок
+2026-10-14 22:07:16  ||  https://infotecs.ru: Собрано 22 потенциальных ссылок
+2026-10-14 22:07:17  ||  https://www.kaspersky.ru/about/press-releases: Собрано 24 потенциальных ссылок
+2026-10-14 22:07:17  ||  https://www.usergate.com/ru: Собрано 0 потенциальных ссылок
+2026-10-14 22:07:17  ||  Предварительная проверка возраста новостей
+2026-10-14 22:07:17  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T10:07:17+00:00 — https://www.kommersant.ru/doc/9026294
+2026-10-14 22:07:17  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T16:31:43+00:00 — https://www.kommersant.ru/doc/9026680
+2026-10-14 22:07:17  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T11:14:42+00:00 — https://www.kommersant.ru/doc/9026370
+2026-10-14 22:07:17  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T07:48:40+00:00 — https://www.kommersant.ru/doc/9026114
+2026-10-14 22:07:17  ||  [ДАТА] Дата не найдена: https://www.kommersant.ru/indices
+2026-10-14 22:07:17  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T11:21:12+00:00 — https://www.kommersant.ru/doc/9026320
+2026-10-14 22:07:17  ||  [ДАТА] Дата не найдена: https://www.kommersant.ru/indices
+2026-10-14 22:07:18  ||  [ДАТА] Дата не найдена: https://www.kommersant.ru/ad
+2026-10-14 22:07:18  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T08:50:29+00:00 — https://www.kommersant.ru/doc/9024539
+2026-10-14 22:07:18  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T01:59:38+00:00 — https://www.kommersant.ru/doc/9024268
+2026-10-14 22:07:18  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T13:51:39+00:00 — https://www.kommersant.ru/doc/9024823
+2026-10-14 22:07:18  ||  [ДАТА] Прошла предварительную проверку: 2026-10-11T12:33:47+00:00 — https://www.kommersant.ru/doc/9024010
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-07T22:07:55+00:00): https://www.kommersant.ru/doc/9008607
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-07T09:43:45+00:00): https://www.kommersant.ru/doc/9008052
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-09T04:26:30+00:00): https://www.kommersant.ru/doc/9009594
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-09T06:01:02+00:00): https://www.kommersant.ru/doc/9009646
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-07T08:26:35+00:00): https://www.kommersant.ru/doc/9007966
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-07T07:45:46+00:00): https://www.kommersant.ru/doc/9007928
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-06T23:33:04+00:00): https://www.kommersant.ru/doc/9007630
+2026-10-14 22:07:18  ||  [ДАТА] (старше 5 дней; дата: 2026-10-06T11:59:22+00:00): https://www.kommersant.ru/doc/9007348
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-10-06T04:15:18+00:00): https://www.kommersant.ru/doc/9006952
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T09:09:08+00:00): https://www.kommersant.ru/doc/9006275
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T10:21:44+00:00): https://www.kommersant.ru/doc/9006380
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T02:37:29+00:00): https://www.kommersant.ru/doc/9006069
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-10-03T18:28:03+00:00): https://www.kommersant.ru/doc/9005712
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-10-02T13:48:13+00:00): https://www.kommersant.ru/doc/9005017
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-10-04T22:30:36+00:00): https://www.kommersant.ru/doc/9005905
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-09-30T18:40:53+00:00): https://www.kommersant.ru/doc/8990751
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-09-30T04:40:17+00:00): https://www.kommersant.ru/doc/8990066
+2026-10-14 22:07:19  ||  [ДАТА] (старше 5 дней; дата: 2026-09-29T09:13:23+00:00): https://www.kommersant.ru/doc/8989386
+2026-10-14 22:07:19  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247841/2026-10-13/2026-w42/1009/pauki-banke-aktivnost-organizatorov-ddos-atak-smeschaetsya-storonu-finsektora
+2026-10-14 22:07:19  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247841/2026-10-13/2026-w42/1009/pauki-banke-aktivnost-organizatorov-ddos-atak-smeschaetsya-storonu-finsektora
+2026-10-14 22:07:19  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/information_security
+2026-10-14 22:07:19  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247835/2026-10-13/2026-w42/1010/za-devyat-mesyacev-2026-g-60-rassledovannykh-kiberatak-prishlos-promyshlennost
+2026-10-14 22:07:19  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247835/2026-10-13/2026-w42/1010/za-devyat-mesyacev-2026-g-60-rassledovannykh-kiberatak-prishlos-promyshlennost
+2026-10-14 22:07:19  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247820/2026-10-12/2026-w42/1009/cb-zayavili-ob-otsutstvii-moshennicheskikh-operaciy-cifrovym-rublem
+2026-10-14 22:07:19  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247820/2026-10-12/2026-w42/1009/cb-zayavili-ob-otsutstvii-moshennicheskikh-operaciy-cifrovym-rublem
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247805/2026-10-12/2026-w42/1008/okolo-poloviny-dropperov-lyudi-do-25-let
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247805/2026-10-12/2026-w42/1008/okolo-poloviny-dropperov-lyudi-do-25-let
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247792/2026-10-09/2026-w41/1010/rossiyskiy-rynok-zaschity-uchetnykh-dannykh-i-kontrolya-dostupa-dostig-17-mlrd-rub
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247795/2026-10-09/2026-w41/1010/gossistemy-vyborakh-otrazili-bolee-4-tys-popytok-atak
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247795/2026-10-09/2026-w41/1010/gossistemy-vyborakh-otrazili-bolee-4-tys-popytok-atak
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247792/2026-10-09/2026-w41/1010/rossiyskiy-rynok-zaschity-uchetnykh-dannykh-i-kontrolya-dostupa-dostig-17-mlrd-rub
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247743/2026-10-07/2026-w41/1009/roskomnadzor-sentyabre-zablokiroval-2484-fishingovykh-resursa
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247743/2026-10-07/2026-w41/1009/roskomnadzor-sentyabre-zablokiroval-2484-fishingovykh-resursa
+2026-10-14 22:07:20  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/end-to-end_technology
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247692/2026-10-05/2026-w41/1008/klienty-ib-kompaniy-khotyat-bolshey-kooperacii-mezhdu-nimi
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247692/2026-10-05/2026-w41/1008/klienty-ib-kompaniy-khotyat-bolshey-kooperacii-mezhdu-nimi
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247681/2026-10-02/2026-w40/1010/eksperty-ozon-banka-nazvali-glavnye-skhemy-moshennichestva-protiv-rossiyan-starshe-60-let
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247681/2026-10-02/2026-w40/1010/eksperty-ozon-banka-nazvali-glavnye-skhemy-moshennichestva-protiv-rossiyan-starshe-60-let
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247691/2026-10-05/2026-w41/1008/kibermoshenniki-podruzhilis-iskusstvennym-intellektom
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247650/2026-10-02/2026-w40/1008/mincifry-opublikovalo-proekt-tretego-paketa-mer-protivodeystviya-moshennikam
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247691/2026-10-05/2026-w41/1008/kibermoshenniki-podruzhilis-iskusstvennym-intellektom
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/regulations_acts
+2026-10-14 22:07:21  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247650/2026-10-02/2026-w40/1008/mincifry-opublikovalo-proekt-tretego-paketa-mer-protivodeystviya-moshennikam
+2026-10-14 22:07:22  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T09:45:19+00:00 — https://www.securitylab.ru/news/578724.php
+2026-10-14 22:07:22  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T06:48:00+00:00 — https://www.securitylab.ru/analytics/578670.php
+2026-10-14 22:07:22  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T11:04:49+00:00 — https://www.securitylab.ru/news/578732.php
+2026-10-14 22:07:22  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247659/2026-10-01/2026-w40/1009/rf-zapretyat-realizaciyu-sim-kart-oformlennykh-drugikh-abonentov
+2026-10-14 22:07:22  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T06:47:32+00:00 — https://www.securitylab.ru/news/578690.php
+2026-10-14 22:07:22  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T18:29:37+00:00 — https://www.securitylab.ru/news/578683.php
+2026-10-14 22:07:22  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T19:15:09+00:00 — https://www.securitylab.ru/news/578672.php
+2026-10-14 22:07:22  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247656/2026-10-01/2026-w40/1010/obschiy-obem-pisem-pochty-mail-iii-kvartale-2026-g-vyros-12
+2026-10-14 22:07:22  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247659/2026-10-01/2026-w40/1009/rf-zapretyat-realizaciyu-sim-kart-oformlennykh-drugikh-abonentov
+2026-10-14 22:07:23  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247632/2026-09-30/2026-w40/1009/mvd-nazvali-preventivnye-mery-zaschity-utechek-uchetnykh-zapisey
+2026-10-14 22:07:23  ||  [ДАТА] Дата не найдена: https://www.comnews.ru/content/247656/2026-10-01/2026-w40/1010/obschiy-obem-pisem-pochty-mail-iii-kvartale-2026-g-vyros-12
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T19:02:00+00:00 — https://www.securitylab.ru/news/578699.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T18:32:27+00:00 — https://www.securitylab.ru/news/578723.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T17:30:32+00:00 — https://www.securitylab.ru/news/578701.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T17:06:52+00:00 — https://www.securitylab.ru/news/578715.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T16:34:18+00:00 — https://www.securitylab.ru/news/578716.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T18:04:11+00:00 — https://www.securitylab.ru/news/578718.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:27:55+00:00 — https://www.securitylab.ru/news/578711.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T16:08:06+00:00 — https://www.securitylab.ru/news/578713.php
+2026-10-14 22:07:23  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:02:55+00:00 — https://www.securitylab.ru/news/578708.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T11:31:05+00:00 — https://www.securitylab.ru/news/578697.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:38:27+00:00 — https://www.securitylab.ru/news/578741.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T13:32:40+00:00 — https://www.securitylab.ru/news/578704.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T10:41:18+00:00 — https://www.securitylab.ru/news/578694.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T14:02:10+00:00 — https://www.securitylab.ru/news/578743.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:10:43+00:00 — https://www.securitylab.ru/news/578740.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T14:29:38+00:00 — https://www.securitylab.ru/news/578709.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T10:18:00+00:00 — https://www.securitylab.ru/news/578729.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T08:44:26+00:00 — https://www.securitylab.ru/news/578696.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T07:44:38+00:00 — https://www.securitylab.ru/news/578691.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T09:17:49+00:00 — https://www.securitylab.ru/news/578692.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T08:12:28+00:00 — https://www.securitylab.ru/news/578686.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T08:36:57+00:00 — https://www.securitylab.ru/news/578700.php
+2026-10-14 22:07:24  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T10:04:21+00:00 — https://www.securitylab.ru/news/578693.php
+2026-10-14 22:07:25  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T13:04:30+00:00 — https://www.securitylab.ru/news/578742.php
+2026-10-14 22:07:25  ||  [ДАТА] Дата не найдена: https://xakep.shop/advert
+2026-10-14 22:07:25  ||  [ДАТА] Дата не найдена: https://xakep.shop/advert
+2026-10-14 22:07:25  ||  [ДАТА] Дата не найдена: https://xakep.shop/corporate
+2026-10-14 22:07:25  ||  [ДАТА] Дата не найдена: https://xakep.shop/4issues2026?erid=2SDnjcRGNQe
+2026-10-14 22:07:25  ||  [ДАТА] Дата не найдена: https://ria.ru/kiberbezopasnost/
+2026-10-14 22:07:25  ||  [ДАТА] Дата не найдена: https://xakep.ru/about-magazine/
+2026-10-14 22:07:25  ||  [ДАТА] (старше 5 дней; дата: 2025-12-22T09:00:00+00:00): https://ria.ru/20251222/kompaniya-2062749442.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2025-12-22T09:15:00+00:00): https://ria.ru/20251222/kiberataka-2063011525.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2024-12-13T12:24:00+00:00): https://ria.ru/20241213/solar-1988799248.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2024-12-17T16:24:00+00:00): https://ria.ru/20241217/solar-1989724094.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2024-10-17T16:16:00+00:00): https://ria.ru/20241017/kheresh-1978524205.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2023-09-07T03:15:00+00:00): https://ria.ru/20230907/kiberbezopasnost-1894655662.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2023-07-14T04:40:00+00:00): https://ria.ru/20230714/kiberpoligon-1884105781.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2023-07-28T15:40:00+00:00): https://ria.ru/20230728/gosuslugi-1886878274.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2023-07-14T02:42:00+00:00): https://ria.ru/20230714/rostelekom-1884100866.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2023-05-24T17:16:00+00:00): https://ria.ru/20230524/deputaty-1873910126.html
+2026-10-14 22:07:26  ||  [ДАТА] (старше 5 дней; дата: 2023-06-28T11:00:00+00:00): https://ria.ru/20230628/shoytov-1880745576.html
+2026-10-14 22:07:27  ||  [ДАТА] (старше 5 дней; дата: 2026-05-21T18:16:00+00:00): https://ria.ru/20260521/solar-2093848376.html
+2026-10-14 22:07:27  ||  [ДАТА] Дата не найдена: https://ria.ru/product_iskusstvennyy-intellekt/
+2026-10-14 22:07:27  ||  [ДАТА] Дата не найдена: https://ria.ru/organization_gk-solar-/
+2026-10-14 22:07:27  ||  [ДАТА] (старше 5 дней; дата: 2026-01-29T12:28:00+00:00): https://ria.ru/20260129/kasperskij-2070954638.html
+2026-10-14 22:07:27  ||  [ДАТА] Дата не найдена: https://ria.ru/person/sergey-golovanov/
+2026-10-14 22:07:27  ||  [ДАТА] (старше 5 дней; дата: 2025-12-22T09:15:00+00:00): https://ria.ru/20251222/kiberataka-2063011525.html
+2026-10-14 22:07:27  ||  [ДАТА] Дата не найдена: https://ria.ru/keyword_kiberbezopasnost/
+2026-10-14 22:07:27  ||  [ДАТА] (старше 5 дней; дата: 2025-12-22T09:00:00+00:00): https://ria.ru/20251222/kompaniya-2062749442.html
+2026-10-14 22:07:27  ||  [ДАТА] Дата не найдена: https://ria.ru/organization_Laboratorija_Kasperskogo/
+2026-10-14 22:07:28  ||  [ДАТА] Дата не найдена: https://ria.ru/interview/
+2026-10-14 22:07:28  ||  [ДАТА] (старше 5 дней; дата: 2025-12-15T17:10:00+00:00): https://ria.ru/20251215/kasperskiy-2062181103.html
+2026-10-14 22:07:28  ||  [ДАТА] Дата не найдена: https://ria.ru/location_vostochnaja_evropa/
+2026-10-14 22:07:28  ||  [ДАТА] (старше 5 дней; дата: 2025-12-12T12:23:00+00:00): https://ria.ru/20251212/proekt-2061488898.html
+2026-10-14 22:07:28  ||  [ДАТА] (старше 5 дней; дата: 2025-11-18T17:08:00+00:00): https://ria.ru/20251118/kiberbezopasnost-2055786945.html
+2026-10-14 22:07:28  ||  [ДАТА] (старше 5 дней; дата: 2025-11-21T16:38:00+00:00): https://ria.ru/20251121/proekt-2056556112.html
+2026-10-14 22:07:28  ||  [ДАТА] Дата не найдена: https://ria.ru/organization_Positive_Technologies/
+2026-10-14 22:07:28  ||  [ДАТА] Дата не найдена: https://ria.ru/organization_infosistemy-dzhet/
+2026-10-14 22:07:28  ||  [ДАТА] (старше 5 дней; дата: 2025-07-07T09:00:00+00:00): https://ria.ru/20250707/solar-2026804992.html
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/vedomstvo-ssha-ne-obespechilo-bezopasnost-personalnykh-dannykh
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/kiberataka-na-yaponskuyu-zheleznodorozhnuyu-kompaniyu
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/za-utechku-personalnykh-dannykh-v-koree-grozit-shtraf-do-10-protsentov-vyruchki
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/kiberataki-na-tankery-prodolzhayutsya
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/koreya-gotovit-strategiyu-protiv-prestupleniy-s-pomoschyu-ii
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/kiberataka-na-odin-iz-krupneyshikh-konteynernykh-portov-v-mire
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/kiberataka-na-britanskuyu-elektrostantsiyu
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/iranskiye-kiberataki-na-kriticheskuyu-infrastrukturu-ssha
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/kiberataki-s-pomoschyu-ii-natselilis-na-plk-siemens
+2026-10-14 22:07:29  ||  [ДАТА] (старше 5 дней; дата: 2026-08-10T00:00:00+00:00): https://securitymedia.org/articles/interview/aleksandr-dvoryanskiy-gk-element-lichnaya-vovlechennost-rukovodstva-igraet-klyuchevuyu-rol-v-kiberbe.html
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/analytics/novosti-ib/shtraf-za-sbor-personalnykh-dannykh-bolelschikov
+2026-10-14 22:07:29  ||  [ДАТА] Дата не найдена: https://www.infowatch.ru/terrasoft/form-modal?source=/subscription
+2026-10-14 22:07:30  ||  [ДАТА] (старше 5 дней; дата: 2026-08-10T00:00:00+00:00): https://securitymedia.org/articles/interview/aleksandr-dvoryanskiy-gk-element-lichnaya-vovlechennost-rukovodstva-igraet-klyuchevuyu-rol-v-kiberbe.html
+2026-10-14 22:07:30  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://securitymedia.org/info/bezopasnost-asu-tp-i-kii-regulyatornyy-landshaft-i-arkhitektura-prakticheskoy-zashchity.html
+2026-10-14 22:07:30  ||  [ДАТА] (старше 5 дней; дата: 2026-06-10T00:00:00+00:00): https://securitymedia.org/info/tsena-lozhnogo-srabatyvaniya-kak-vybrat-ids-ips-v-2026-godu-i-ne-uronit-boevye-servisy.html
+2026-10-14 22:07:30  ||  [ДАТА] (старше 5 дней; дата: 2026-02-10T00:00:00+00:00): https://securitymedia.org/info/audit-kii-2026-otraslevaya-detalizatsiya-tipovye-obekty-i-zhestkie-trebovaniya-k-doverennym-pak.html
+2026-10-14 22:07:30  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/v-rossii-rastet-spros-na-zashchitu-ii-.html
+2026-10-14 22:07:31  ||  [ДАТА] (старше 5 дней; дата: 2026-06-10T00:00:00+00:00): https://securitymedia.org/info/tsena-lozhnogo-srabatyvaniya-kak-vybrat-ids-ips-v-2026-godu-i-ne-uronit-boevye-servisy.html
+2026-10-14 22:07:31  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/tsifrovoy-suverenitet-v-fokuse-rossiya-serbiya-i-respublika-serbskaya-obsudyat-arkhitekturu-kiberzashch.html
+2026-10-14 22:07:31  ||  [ДАТА] (старше 5 дней; дата: 2026-09-24T00:00:00+00:00): https://securitymedia.org/articles/interview/anastasiya-fedorova-positive-education-nuzhny-lyudi-kotorye-umeyut-uchitsya-i-bystro-prevrashchat-zn.html
+2026-10-14 22:07:31  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/rostelekom-predlozhil-stroit-v-rossii-tsody-sudnogo-dnya-.html
+2026-10-14 22:07:31  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://securitymedia.org/info/bezopasnost-asu-tp-i-kii-regulyatornyy-landshaft-i-arkhitektura-prakticheskoy-zashchity.html
+2026-10-14 22:07:32  ||  [ДАТА] (старше 5 дней; дата: 2026-02-10T00:00:00+00:00): https://securitymedia.org/info/audit-kii-2026-otraslevaya-detalizatsiya-tipovye-obekty-i-zhestkie-trebovaniya-k-doverennym-pak.html
+2026-10-14 22:07:32  ||  [ДАТА] (старше 5 дней; дата: 2026-09-24T00:00:00+00:00): https://securitymedia.org/articles/interview/anastasiya-fedorova-positive-education-nuzhny-lyudi-kotorye-umeyut-uchitsya-i-bystro-prevrashchat-zn.html
+2026-10-14 22:07:32  ||  [ДАТА] (старше 5 дней; дата: 2026-07-26T00:00:00+00:00): https://securitymedia.org/news/obzor-kiberatak-i-uyazvimostey-za-proshedshuyu-nedelyu-20-24-iyulya-2026-goda.html
+2026-10-14 22:07:32  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/rdv-tekhnolodzhi-i-gazinformservis-uspeshno-protestirovali-sdz-safenode-system-loader-na-baze-server.html
+2026-10-14 22:07:32  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/poteri-bankov-ot-ib-intsidentov-sokratilis-vdvoe-v-2026-godu.html
+2026-10-14 22:07:32  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/migratsiya-domena-na-300-tys-polzovateley-v-ald-pro-ukladyvaetsya-v-odno-nochnoe-okno-obsluzhivaniya.html
+2026-10-14 22:07:33  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/posledstviya-atak-na-data-tsentry-yandeksa-otmena-platy-za-oblachnye-servisy-i-prodolzhayushchiesya-.html
+2026-10-14 22:07:33  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/rossiyskim-it-kompaniyam-pomogut-vyyti-na-zarubezhnye-rynki.html
+2026-10-14 22:07:33  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/eksperty-predupredili-o-vredonosnoy-rassylke-pod-predlogom-pereraschyeta-ndfl.html
+2026-10-14 22:07:33  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/v-rossii-mogut-ogranichit-deshyevuyu-mobilnuyu-svyaz-ot-bankov.html
+2026-10-14 22:07:33  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/kazhdyy-tretiy-rossiyskiy-student-ne-znaet-chto-delat-s-budushchey-kareroy.html
+2026-10-14 22:07:33  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/shest-prostykh-sposobov-popast-v-korporativnuyu-set-i-chto-s-etim-delat.html
+2026-10-14 22:07:33  ||  [ДАТА] (старше 5 дней; дата: 2026-07-29T00:00:00+00:00): https://securitymedia.org/tags/Utechkadannykhinformatsii
+2026-10-14 22:07:33  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/tags/ib
+2026-10-14 22:07:34  ||  [ДАТА] (старше 5 дней; дата: 2026-07-30T00:00:00+00:00): https://securitymedia.org/news/eksperty-vmeste-s-glavredom-kiber-media-rasskazali-o-tom-kak-uchastie-v-kommyuniti-i-publichnost-pom.html
+2026-10-14 22:07:34  ||  [ДАТА] (старше 5 дней; дата: 2026-04-06T00:00:00+00:00): https://securitymedia.org/news/podkast-kiber-media-kak-razrabatyvat-po-v-rossii-bezopasno.html
+2026-10-14 22:07:34  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/termidesk-predstavila-rekomendatsii-po-obespecheniyu-otkazoustoychivosti-v-gibridnoy-it-infrastruktu.html
+2026-10-14 22:07:34  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/v-i-kvartale-bolshinstvo-ddos-atak-na-po-obemu-prevyshali-2-tbit-s/
+2026-10-14 22:07:34  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/dolia-ispolzovaniia-ngfw-v-srede-virtualizatsii-vyrosla-s-12-do-22/
+2026-10-14 22:07:34  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://securitymedia.org/news/mirovoy-rynok-smartfonov-rukhnul-na-20-prodazhi-opustilis-do-minimuma-za-14-let.html
+2026-10-14 22:07:34  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/31-kompanii-malogo-i-srednego-biznesa-po-prezhnemu-vybiraiut-korobochnye-ib-resheniia-iz-za-ekonomii/
+2026-10-14 22:07:34  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/rynok-informatsionnoi-bezopasnosti-v-2025-gody/
+2026-10-14 22:07:34  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/za-dva-goda-chislo-opasnykh-uiazvimostei-v-bankovskikh-prilozheniiakh-vyroslo-s-183-do-bolee-chem-2-tys/
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/v-i-kvartale-dolia-vredonosnykh-botov-v-obshchem-obeme-bot-aktivnosti-uvelichilas-do-70/
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:10:00+00:00 — https://ict.moscow/projects/ai/
+2026-10-14 22:07:35  ||  [ДАТА] (старше 5 дней; дата: 2026-06-10T00:00:00+00:00): https://securitymedia.org/tags/Kiberbezopasnost
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/landshaft-kiberugroz-2025-goda/
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/v-2025-godu-spetsialistov-po-bezopasnoi-razrabotke-bylo-v-tri-raza-menshe-chem-trebovalos/
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/80-tselevykh-fishingovykh-atak-nachinaiutsia-s-elektronnoi-pochty/
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/rynok-kiberuchenii-v-rossii/
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/soc-koda-bezopasnosti-opredelil-chto-srednee-vremia-nakhozhdeniia-khakerov-v-seti-rossiiskikh-kompanii-dokhodit-42-dnei/
+2026-10-14 22:07:35  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/kolichestvo-kiberatak-na-promyshlennost-vyroslo-na-38-v-i-kvartale-2026-goda/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/v-i-kvartale-2026-goda-chislo-atak-na-tsepochki-postavok-uvelichilos-na-tret/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/v-fevrale-2026-goda-chislo-atak-s-vredonosnym-po-vyroslo-v-3-6-raza/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/za-pervye-dva-mesiatsa-2026-goda-v-darknete-poiavilos-okolo-40-baz-dannykh-rossiiskikh-kompanii/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/kiberbezopasnost-v-rossii-sila-tekhnologicheskogo-razvitiia/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://ict.moscow/news/kross-tekhnolodzhis-okolo-25-intsidentov-ib-v-oblachnykh-resursakh-proiskhodiat-iz-za-oshibok-konfiguratsii/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/trendy-kiberbezopasnosti-finansovoi-otrasli-v-2026-godu/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/tekhnologicheskie-strategii-biznesa-v-rossii-kiberbezopasnost/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://ict.moscow/news/positive-technologies-nekontroliruemoe-ispolzovanie-ii-servisov-sygraet-kliuchevuiu-rol-v-izmenenii-landshafta-kiberugroz-v-2026-godu/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://ict.moscow/news/kod-bezopasnosti-64-rossiiskikh-kompanii-ne-planiruiut-sokrashchat-raskhody-na-ib-v-2026-godu/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://ict.moscow/news/bitriks24-rshu-50-kompanii-ne-provodiat-obuchenie-sotrudnikov-po-kiberbezopasnosti/
+2026-10-14 22:07:36  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://ict.moscow/news/positive-technologies-za-god-dolia-kiberatak-s-shifrovaniem-ili-vyvodom-iz-stroia-infrastruktury-dostigla-55/
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://ict.moscow/news/gk-solar-kasatkin-sonsulting-obem-rossiiskogo-rynka-korporativnogo-obrazovaniia-v-sfere-ib-v-2024-godu-uvelichilsia-na-10-i-dostig-3-07-mlrd-rub/
+2026-10-14 22:07:37  ||  [ДАТА] Дата не найдена: https://stopmoshenniki.aif.ru/video-stories?from_alert=1
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/ot-dlp-k-dsp-transformatsiia-podkhodov-k-zashchite-dannykh/
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/code-red-2026-aktualnye-kiberugrozy-dlia-rossiiskikh-organizatsii/
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T00:00:00+00:00 — https://ict.moscow/news/tekhnologii-doveriia-obem-rossiiskogo-rynka-kiberstrakhovaniia-dostig-pochti-1-mlrd-rub/
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://ict.moscow/analytics/vosstanovlenie-kak-strategicheskii-aspekt-kiberustoichivosti-biznesa/
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T23:20:00+00:00 — https://aif.ru/techno/web/ekspert-murtazin-posovetoval-ne-hranit-vazhnye-dannye-tolko-v-oblake
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T23:30:00+00:00 — https://aif.ru/techno/web/klimenko-nazval-sroki-vosstanovleniya-yandeksa-posle-udarov-po-data-centram
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T08:07:28+00:00 — https://aif.ru/techno/web/issledovanie-telecomdaily-v-setyah-5g-skorosti-dostigayut-1-5-gbit-s
+2026-10-14 22:07:37  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T06:18:58+00:00 — https://aif.ru/techno/web/vosstanovlenie-raboty-servisov-yandeksa-mozhet-zanyat-do-nedeli
+2026-10-14 22:07:37  ||  [ДАТА] (старше 5 дней; дата: 2026-10-08T14:53:38+00:00): https://aif.ru/politics/tramp-nazval-vragami-ne-otkazavshihsya-ot-termina-iskusstvennyy-intellekt
+2026-10-14 22:07:37  ||  [ДАТА] (старше 5 дней; дата: 2026-10-08T11:41:12+00:00): https://aif.ru/society/-radiostanciya-sudnogo-dnya-peredala-vosmoe-za-sutki-zashifrovannoe-poslanie
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-10-08T11:09:28+00:00): https://aif.ru/techno/apps/ad-niderlandy-planiruyut-privlekat-novobrancev-v-armiyu-cherez-tiktok
+2026-10-14 22:07:38  ||  [ДАТА] Дата не найдена: https://aif.ru/techno/web/ne-stat-dropperom-lyogkiy-zarabotok-lovushka-prestupnikov
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-10-06T09:11:56+00:00): https://aif.ru/techno/web/mobilnyy-internet-na-sadovom-kolce-megafon-pokazal-liderstvo-po-skorosti
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-10-02T09:07:47+00:00): https://aif.ru/money/company/den-sotovoy-nezavisimosti-bilayn-zapustil-prazdnichnuyu-akciyu?erid=2W5zFK7Hp2D
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T11:01:46+00:00): https://aif.ru/techno/web/kachestvo-interneta-bilayn-pokazal-vysokiy-rezultat-v-testah-5g?erid=2W5zFG6Vfxd
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T10:51:15+00:00): https://aif.ru/politics/russia/putin-zayavil-o-nedopustimosti-razdeleniya-obshchestva-na-fone-razvitiya-ii
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-09-24T06:21:44+00:00): https://aif.ru/techno/web/zashchita-v-seti-bilayn-predstavil-novuyu-opciyu-detskiy-rezhim-interneta?erid=2W5zFGFQbQm
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-09-28T03:22:13+00:00): https://aif.ru/techno/web/-radiostanciya-sudnogo-dnya-peredala-novoe-zashifrovannoe-slovo
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-09-23T17:08:16+00:00): https://aif.ru/techno/technology/uchenye-predupredili-o-riske-poteri-kontrolya-nad-ii-v-techenie-pyati-let
+2026-10-14 22:07:38  ||  [ДАТА] (старше 5 дней; дата: 2026-09-21T06:45:37+00:00): https://aif.ru/techno/web/dostup-k-skorostyam-5g-dlya-vseh-megafon-rasshiril-lineyku-uslug
+2026-10-14 22:07:39  ||  [ДАТА] (старше 5 дней; дата: 2026-09-17T10:55:09+00:00): https://aif.ru/techno/web/internet-v-moskovskih-parkah-telecomdaily-issledoval-ceti-operatorov?erid=2W5zFH3DUFB
+2026-10-14 22:07:39  ||  [ДАТА] (старше 5 дней; дата: 2026-09-16T16:49:33+00:00): https://aif.ru/moscow/medicine/sobyanin-soobshchil-o-vnedrenii-emias-v-poliklinikah-sankt-peterburga
+2026-10-14 22:07:39  ||  [ДАТА] (старше 5 дней; дата: 2026-09-13T09:06:12+00:00): https://aif.ru/techno/technology/axios-iran-primenyal-iskusstvennyy-intellekt-claude-dlya-slezhki-za-vms-ssha
+2026-10-14 22:07:39  ||  [ДАТА] (старше 5 дней; дата: 2026-09-15T17:04:33+00:00): https://aif.ru/techno/technology/bill-geyts-vystupil-za-umyshlennoe-zamedlenie-razvitiya-tehnologiy-ii
+2026-10-14 22:07:39  ||  [ДАТА] Дата не найдена: https://safe.cnews.ru/redirect.php?88502055ad07cc6c41e+leftmenu
+2026-10-14 22:07:39  ||  [ДАТА] Дата не найдена: https://aif.ru/moscow/medicine
+2026-10-14 22:07:40  ||  [ДАТА] (дата в будущем; дата: 2026-11-12T00:00:00+00:00): https://safe.cnews.ru/redirect.php?54ef30c1143d8+leftmenu
+2026-10-14 22:07:40  ||  [ДАТА] Дата не найдена: https://safe.cnews.ru/redirect.php?5087216a75bc8f0f30c+leftmenu
+2026-10-14 22:07:40  ||  [ДАТА] Дата не найдена: https://safe.cnews.ru/redirect.php?36878769e231b659325+leftmenu
+2026-10-14 22:07:40  ||  [ДАТА] Дата не найдена: https://safe.cnews.ru/redirect.php?4924446a5e05fa5fca0+leftmenu
+2026-10-14 22:07:40  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T17:11:08+00:00 — https://safe.cnews.ru/news/top/2026-10-14_iz_rossii_mozhet_ujti_poslednyaya
+2026-10-14 22:07:40  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T14:01:26+00:00 — https://safe.cnews.ru/news/top/2026-10-13_sozdateli_firefox_vypustili
+2026-10-14 22:07:40  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T11:22:33+00:00 — https://safe.cnews.ru/news/top/2026-10-13_obchishcheny_kriptokoshelki
+2026-10-14 22:07:41  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T10:10:09+00:00 — https://safe.cnews.ru/news/top/2026-10-12_v_rossii_epidemiya_zarazhennyh
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-10-09T09:13:04+00:00): https://safe.cnews.ru/news/top/2026-10-09_najden_neozhidannyj_vinovnyj
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-10-09T16:05:17+00:00): https://safe.cnews.ru/news/top/2026-10-09_rossiyu_zavalilo_krajne_opasnymi
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-10-08T15:35:47+00:00): https://safe.cnews.ru/news/top/2026-10-08_predsedatel_komiteta_tsifrovogo
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-10-06T10:00:18+00:00): https://safe.cnews.ru/news/top/2026-10-05_rtk-tsod_razrabotal_ii-assistenta
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-10-08T09:00:10+00:00): https://safe.cnews.ru/news/top/2026-10-07_bolshe_treh_tysyach_chelovek
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-10-02T12:39:27+00:00): https://safe.cnews.ru/news/top/2026-10-02_tainstvennye_zloumyshlenniki
+2026-10-14 22:07:41  ||  [ДАТА] Дата не найдена: https://safe.cnews.ru/redirect.php?46074862823e77b19d0
+2026-10-14 22:07:41  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T13:43:17+00:00 — https://safe.cnews.ru/news/line/2026-10-14_povtorite_popytku_cherez
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-10-01T13:25:48+00:00): https://safe.cnews.ru/news/top/2026-10-01_po_vpn_v_rossii_nanesen_tyazhelejshij
+2026-10-14 22:07:41  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T17:04:24+00:00 — https://safe.cnews.ru/news/line/2026-10-14_krossteh_spros_na_zashchitu
+2026-10-14 22:07:41  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T14:56:14+00:00 — https://safe.cnews.ru/news/line/2026-10-14_rdv_tehnolodzhi_i_gazinformservis
+2026-10-14 22:07:41  ||  [ДАТА] (старше 5 дней; дата: 2026-09-29T18:29:26+00:00): https://safe.cnews.ru/news/top/2026-09-29_bolee_80_krupnyh_kompanij
+2026-10-14 22:07:41  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T13:30:24+00:00 — https://safe.cnews.ru/news/line/2026-10-14_atakuyushchie_pochti_polnostyu
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T13:05:42+00:00 — https://safe.cnews.ru/news/line/2026-10-14_laboratoriya_kasperskogo
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:46:03+00:00 — https://safe.cnews.ru/news/line/2026-10-14_kompaniya_red_security_zapuskaet
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:36:20+00:00 — https://safe.cnews.ru/news/line/2026-10-14_infosistemy_dzhet_provela
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T07:09:25+00:00 — https://safe.cnews.ru/news/line/2026-10-14_security_vision_na_soc_forum_kiberoperatsii
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:11:20+00:00 — https://safe.cnews.ru/news/line/2026-10-14_bizone_preduprezhdaet_ob_uyazvimosti
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T18:04:03+00:00 — https://habr.com/ru/articles/1094498/
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T17:57:45+00:00 — https://safe.cnews.ru/news/line/2026-10-13_alfastrahovanie_kiberpolis
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:35:17+00:00 — https://safe.cnews.ru/news/line/2026-10-14_positive_technologies_rossijskie_kompanii
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T09:40:44+00:00 — https://safe.cnews.ru/news/line/2026-10-14_atlas_vypustil_servery_hraneniya
+2026-10-14 22:07:42  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T18:04:03+00:00 — https://habr.com/ru/hubs/infosecurity/
+2026-10-14 22:07:43  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T18:00:41+00:00 — https://habr.com/ru/companies/mobileproxy/articles/1094496/
+2026-10-14 22:07:43  ||  [ДАТА] (старше 5 дней; дата: 2025-02-18T14:51:33+00:00): https://habr.com/ru/users/MobileProxySpace/
+2026-10-14 22:07:43  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:04:27+00:00 — https://habr.com/ru/articles/1094302/
+2026-10-14 22:07:43  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T18:00:41+00:00 — https://habr.com/ru/companies/mobileproxy/articles/
+2026-10-14 22:07:43  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:29:29+00:00 — https://habr.com/ru/articles/1094440/
+2026-10-14 22:07:43  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:04:27+00:00 — https://habr.com/ru/hubs/sys_admin/
+2026-10-14 22:07:43  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T18:00:41+00:00 — https://habr.com/ru/hubs/network_technologies/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:29:29+00:00 — https://habr.com/ru/hubs/data_recovery/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T14:35:29+00:00 — https://habr.com/ru/companies/kaspersky/articles/1093978/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T10:09:21+00:00 — https://habr.com/ru/articles/1093218/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T15:04:27+00:00 — https://habr.com/ru/hubs/virus/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T14:35:29+00:00 — https://habr.com/ru/companies/kaspersky/articles/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T10:11:01+00:00 — https://habr.com/ru/hubs/controllers/
+2026-10-14 22:07:44  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T17:55:10+00:00): https://habr.com/ru/articles/1090692/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T08:48:58+00:00 — https://habr.com/ru/articles/1094226/
+2026-10-14 22:07:44  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T09:48:20+00:00 — https://habr.com/ru/companies/innostage/articles/1094260/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T17:46:50+00:00 — https://habr.com/ru/hubs/artificial_intelligence/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T09:48:20+00:00 — https://habr.com/ru/hubs/network_hardware/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T09:48:20+00:00 — https://habr.com/ru/companies/innostage/articles/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T05:30:45+00:00 — https://habr.com/ru/articles/1073102/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T16:05:38+00:00 — https://habr.com/ru/hubs/programming/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T08:01:04+00:00 — https://habr.com/ru/articles/1093938/
+2026-10-14 22:07:45  ||  [ДАТА] (старше 5 дней; дата: 2026-06-19T13:54:52+00:00): https://habr.com/ru/users/aurorium_browser/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T16:30:33+00:00 — https://habr.com/ru/hubs/it-infrastructure/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T04:12:19+00:00 — https://habr.com/ru/companies/aurorium/articles/1094104/
+2026-10-14 22:07:45  ||  [ДАТА] (дата в будущем; дата: 2026-12-14T18:40:00+00:00): https://rb.ru/tag/ai/
+2026-10-14 22:07:45  ||  [ДАТА] (дата в будущем; дата: 2026-12-14T13:09:00+00:00): https://rb.ru/tag/cybersecurity/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T04:12:19+00:00 — https://habr.com/ru/companies/aurorium/articles/1094104/
+2026-10-14 22:07:45  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T01:37:04+00:00 — https://habr.com/ru/articles/1094094/
+2026-10-14 22:07:46  ||  [ДАТА] (старше 5 дней; дата: 2026-09-30T08:40:13+00:00): https://rb.ru/article/kibermoshennichestvo-shemy-priznaki-zaschita/
+2026-10-14 22:07:46  ||  [ДАТА] (старше 5 дней; дата: 2026-10-06T16:10:00+00:00): https://rb.ru/news/na-gosuslugah-v-dopolnenie-k-krasnoj-knopke-poyavitsya-zelyonaya-ona-pozvolit-otmenit-signal-o-moshennichestve/
+2026-10-14 22:07:46  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T10:09:00+00:00 — https://rb.ru/news/sber-zablokiroval-bolee-11-mln-moshennicheskih-zvonkov-s-nachala-goda-bank-pomog-sohranit-klientam-220-mlrd-rublej/
+2026-10-14 22:07:46  ||  [ДАТА] (старше 5 дней; дата: 2026-10-01T13:30:00+00:00): https://rb.ru/news/vredonosnye-programmy-nachali-sostavlyat-dose-na-polzovatelej-moshenniki-kradut-dannye-iz-istorii-ii-chatov/
+2026-10-14 22:07:46  ||  [ДАТА] (старше 5 дней; дата: 2026-09-29T08:33:25+00:00): https://rb.ru/news/dodo-picca-podverglas-kiberatake-mogla-proizojti-utechka-imen-adresov-telefonov-i-email-polzovatelej/
+2026-10-14 22:07:46  ||  [ДАТА] (старше 5 дней; дата: 2026-09-23T14:20:57+00:00): https://rb.ru/news/mvd-rossii-predlozhilo-zapretit-pereprodazhu-sim-kart-meru-hotyat-vklyuchit-v-antifrod-30/
+2026-10-14 22:07:46  ||  [ДАТА] (старше 5 дней; дата: 2026-09-23T15:00:00+00:00): https://rb.ru/news/v-rostelekome-zayavili-ob-utechke-370-mln-zapisej-o-rossiyanah-dannye-vsyo-chashe-ispolzuyut-dlya-vbrosov/
+2026-10-14 22:07:46  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T04:12:19+00:00 — https://habr.com/ru/companies/aurorium/articles/
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/subjects/nobelevskaya_premiya_mdash_2026.shtml
+2026-10-14 22:07:47  ||  [ДАТА] (старше 5 дней; дата: 2026-09-10T11:00:00+00:00): https://rb.ru/news/f6-i-max-obedinilis-protiv-moshennikov-za-dva-mesyaca-kompanii-vyyavili-bolee-25-tys-fishingovyh-sajtov/
+2026-10-14 22:07:47  ||  [ДАТА] (старше 5 дней; дата: 2026-09-07T17:30:00+00:00): https://rb.ru/news/rossijskij-biznes-hochet-zashititsya-ot-ii-za-god-spros-na-produkty-dlya-kontrolya-nejrosetej-vyros-vtroe/
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://media.rbcdn.ru/media/docs/policies/agreement_cookies_1.docx
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://media.rbcdn.ru/media/docs/policies/agreement_personal_data_1.docx
+2026-10-14 22:07:47  ||  [ДАТА] (старше 5 дней; дата: 2026-09-07T16:00:00+00:00): https://rb.ru/news/pravitelstvo-utverdilo-koncepciyu-povysheniya-cifrovoj-gramotnosti-v-neyo-voshli-pravila-raboty-s-ii-i-dipfejkami/
+2026-10-14 22:07:47  ||  [ДАТА] (старше 5 дней; дата: 2026-09-15T11:00:00+00:00): https://rb.ru/news/podryadchiki-openai-chitayut-perepiski-polzovatelej-chatgpt-tak-kompaniya-uluchshaet-otvety-nejroseti/
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/subjects/dizelnaya_sdelka_ssha_i_rossii.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/subjects/repera_navai_zaderzhali_s_narkotikami.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/10/10/long-23677429.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/10/09/long-23674543.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/10/09/long-23678677.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/30/23629159.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/27/23612551.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/24/23597647.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/26/23608969.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/24/23587495.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/18/23569951.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/17/23550169.shtml
+2026-10-14 22:07:47  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/12/23543077.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/11/23536855.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/10/23533759.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/09/23516767.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/09/23528863.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/09/08/23518135.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/23497027/gta-vi-chto-izvestno-o-legendarnoy-igre.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/08/30/23471953.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/08/27/23451937.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/08/20/23424061.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/08/18/23414851.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/08/04/23347579.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/07/31/23321659.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/07/30/23323531.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Дата не найдена: https://www.gazeta.ru/tech/2026/08/03/23342431.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T17:37:27+00:00 — https://www.gazeta.press/tech/news/2026/10/14/29526385.shtml
+2026-10-14 22:07:48  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T17:21:51+00:00 — https://www.gazeta.press/social/news/2026/10/14/29526229.shtml
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/ai/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/digitalization/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/bigdata/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/mobile/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/ecm/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/idea/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/industrial/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/infrastructure/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/security/news-company/
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235233
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235296
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235600
+2026-10-14 22:07:49  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235662
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235561
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235717
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235709
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235699
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235698
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235730
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235667
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235678
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235716
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235704
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235610
+2026-10-14 22:07:50  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235608
+2026-10-14 22:07:51  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/security/article/detail.php?ID=235730&utm_source=theme-articles-right&utm_medium=link
+2026-10-14 22:07:51  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/security/article/detail.php?ID=235716&utm_source=theme-articles-right&utm_medium=link
+2026-10-14 22:07:51  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/security/article/detail.php?ID=235704&utm_source=theme-articles-right&utm_medium=link
+2026-10-14 22:07:51  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235607
+2026-10-14 22:07:51  ||  [ДАТА] Дата не найдена: https://www.itweek.ru/themes/detail.php?ID=235597
+2026-10-14 22:07:51  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T16:21:07+00:00 — https://iz.ru/2184263/alena-nefedova/vneshnie-dannye-putin-prizval-zashchitit-kliuchevye-sfery-ot-kiberagressii
+2026-10-14 22:07:51  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:25:47+00:00 — https://iz.ru/2184084/putin-poruchil-usilit-koordinatciiu-deistvii-spetcsluzhb-i-biznesa-protiv-kiberugroz
+2026-10-14 22:07:51  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:22:19+00:00 — https://iz.ru/2184078/putin-ukazal-na-novyi-uroven-kiberugroz-na-fone-gibridnoi-vneshnei-agressii-izi
+2026-10-14 22:07:51  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:39:07+00:00 — https://iz.ru/2184070/khaker-vzlomal-gosudarstvennyi-reestr-danii-i-poluchil-dostup-k-88-mln-zapisei
+2026-10-14 22:07:51  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:20:09+00:00 — https://iz.ru/2184075/putin-nazval-kraine-vazhnym-vopros-povysheniia-tcifrovoi-bezopasnosti-v-rossii
+2026-10-14 22:07:52  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T21:02:00+00:00 — https://iz.ru/2183440/dmitrii-bulgakov/isportit-kanikuly-kak-moshenniki-ispolzuiut-temu-osennego-otdykha-detei
+2026-10-14 22:07:52  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T09:50:00+00:00 — https://iz.ru/2183961/2026-10-14/peskov-ukazal-na-ugrozy-dlia-ekonomiki-pri-ispolzovanii-ii-v-kachestve-oruzhiia
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2026-06-10T07:56:49+00:00): https://iz.ru/2113154/video/gosudarstvennaia-duma-priniala-novye-mery-zashchity-ot-kibermoshenichestva
+2026-10-14 22:07:52  ||  [ДАТА] Прошла предварительную проверку: 2026-10-13T12:30:00+00:00 — https://iz.ru/2183453/2026-10-13/maks-nachal-preduprezhdat-polzovatelei-pri-perekhode-po-podozritelnym-ssylkam
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2026-07-03T09:48:07+00:00): https://iz.ru/2126409/video/sbornaia-rf-pobedila-na-mezhdunarodnoi-olimpiade-po-kiberbezopasnosti
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2018-11-15T13:06:51+00:00): https://www.computerra.ru/policy/
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2015-10-14T07:48:40+00:00): https://www.computerra.ru/195788/registratura-domena-xyz-com-podderzhit-deystvuyushhuyu-v-kitae-internet-tsenzuru/
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2026-03-23T07:46:41+00:00): https://iz.ru/2064365/video/v-rossii-chislo-atak-so-storony-vredonosnogo-po-vyroslo-pochti-v-vosem-raz
+2026-10-14 22:07:52  ||  [ДАТА] Прошла предварительную проверку: 2026-10-11T21:15:00+00:00 — https://iz.ru/2182533/2026-10-12/bill-geits-sprognoziroval-uvelichenie-chisla-ii-kiberatak-v-sleduiushchem-godu
+2026-10-14 22:07:52  ||  [ДАТА] Прошла предварительную проверку: 2026-10-10T21:02:00+00:00 — https://iz.ru/2181531/dmitrii-bulgakov/razdet-do-nitki-kak-moshenniki-ispolzuiut-temu-osennikh-rasprodazh
+2026-10-14 22:07:52  ||  [ДАТА] Прошла предварительную проверку: 2026-10-09T21:01:00+00:00 — https://iz.ru/2181432/irina-merkel/operatory-zafiksirovali-spad-moshennicheskih-zvonkov
+2026-10-14 22:07:52  ||  [ДАТА] Прошла предварительную проверку: 2026-10-10T02:45:00+00:00 — https://iz.ru/2181867/2026-10-10/v-filadelfii-ii-model-anthropic-otpravila-lozhnoe-soobshchenie-ob-ubiistve
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2026-03-18T09:49:42+00:00): https://iz.ru/2061462/video/v-preddverii-23-fevralia-i-8-marta-riteil-stolknulsia-s-rekordnym-kolichestvom-atak
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2026-10-09T12:55:05+00:00): https://iz.ru/2181499/v-ssha-soobshchili-o-razgorevshikhsia-v-evrope-debatakh-po-povodu-mer-protiv-rossii-izi
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2026-09-24T12:43:38+00:00): https://www.computerra.ru/364278/na-yandex-scale-2026-predstavili-ii-agenta-dlya-biznesa-novoe-napravlenie-security-i-uskorenie-analitiki/
+2026-10-14 22:07:52  ||  [ДАТА] (старше 5 дней; дата: 2026-10-09T01:51:22+00:00): https://iz.ru/2181201/v-mvd-nazvali-nezhelatelnye-dlia-khraneniia-v-telefone-dannye-izi
+2026-10-14 22:07:53  ||  [ДАТА] (старше 5 дней; дата: 2026-10-07T13:49:23+00:00): https://iz.ru/2180237/milliarder-dalio-nazval-rynok-ii-klassicheskim-puzyrem-na-grani-skhlopyvaniia-izi
+2026-10-14 22:07:53  ||  [ДАТА] (старше 5 дней; дата: 2026-10-07T20:48:15+00:00): https://iz.ru/2180499/moshenniki-stali-vymanivat-u-rossiian-dannye-pod-vidom-obnovleniia-gosuslug-izi
+2026-10-14 22:07:53  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://rt-solar.ru/events/news/7121/
+2026-10-14 22:07:53  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://rt-solar.ru/events/news/7131/
+2026-10-14 22:07:53  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://rt-solar.ru/events/news/7120/
+2026-10-14 22:07:53  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://rt-solar.ru/events/news/7117/
+2026-10-14 22:07:53  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://rt-solar.ru/events/news/7118/
+2026-10-14 22:07:53  ||  [ДАТА] Дата не найдена: https://rt-solar.ru/solar_hub/
+2026-10-14 22:07:53  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T00:00:00+00:00 — https://rt-solar.ru/events/news/7132/
+2026-10-14 22:07:53  ||  [ДАТА] Дата не найдена: https://infotecs.ru/products/
+2026-10-14 22:07:54  ||  [ДАТА] Дата не найдена: https://infotecs.ru/support/
+2026-10-14 22:07:54  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=3469&direction=10
+2026-10-14 22:07:54  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=1861&direction=10
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/individual-offer/
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/podklyuchenie-k-eip-foms-i-es-og/?utm_source=infotecs_main&utm_medium=solutions&utm_campaign=eis
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=2925&direction=10
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=1865&direction=10
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=1867&direction=10
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=1859&direction=10
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=15&direction=10
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=1841&direction=1
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=3471&direction=1
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs-edu.ru
+2026-10-14 22:07:55  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=3493&direction=1
+2026-10-14 22:07:56  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=1849&direction=1
+2026-10-14 22:07:56  ||  [ДАТА] (старше 5 дней; дата: 2026-04-23T00:00:00+00:00): https://infotecsfest.ru/
+2026-10-14 22:07:56  ||  [ДАТА] Дата не найдена: https://sfblaboratory.ru
+2026-10-14 22:07:56  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=1847&direction=1
+2026-10-14 22:07:56  ||  [ДАТА] Дата не найдена: https://infotecs.ru/solutions/?category=3495&direction=1
+2026-10-14 22:07:56  ||  [ДАТА] Дата не найдена: https://amonitoring.ru
+2026-10-14 22:07:56  ||  [ДАТА] Дата не найдена: https://mstars.ru/
+2026-10-14 22:07:57  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T12:45:00+00:00 — https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-preduprezhdaet-o-vredonosnoj-rassylke-pod-predlogom-pereraschyota-ndfl
+2026-10-14 22:07:57  ||  [ДАТА] Прошла предварительную проверку: 2026-10-14T11:23:00+00:00 — https://www.kaspersky.ru/about/press-releases/kazhdyj-tretij-rossijskij-student-ne-znaet-kakoj-mozhet-byt-ego-karera
+2026-10-14 22:07:57  ||  [ДАТА] (старше 5 дней; дата: 2026-10-09T11:25:00+00:00): https://www.kaspersky.ru/about/press-releases/chislo-kritichnyh-kiberincidentov-v-rossijskom-retejle-vyroslo-na-60
+2026-10-14 22:07:57  ||  [ДАТА] Прошла предварительную проверку: 2026-10-12T12:36:00+00:00 — https://www.kaspersky.ru/about/press-releases/kaspersky-vulnerability-management-vklyuchyon-v-reestr-otechestvennogo-po
+2026-10-14 22:07:57  ||  [ДАТА] (старше 5 дней; дата: 2026-10-08T14:00:00+00:00): https://www.kaspersky.ru/about/press-releases/kaspersky-ngfw-pokazal-vysokij-uroven-proizvoditelnosti-i-zashity-pri-testirovanii-v-laboratorii-k2-kiberbezopasnost
+2026-10-14 22:07:58  ||  [ДАТА] (старше 5 дней; дата: 2026-10-07T10:30:00+00:00): https://www.kaspersky.ru/about/press-releases/ot-utilizacii-musora-do-mediciny-rossiyane-nazvali-samye-perspektivnye-sfery-dlya-robotizacii
+2026-10-14 22:07:58  ||  [ДАТА] (старше 5 дней; дата: 2026-10-06T15:30:00+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-vypustila-rukovodstvo-po-bezopasnosti-ii-agentov-cherez-prizmu-kiberimmuniteta
+2026-10-14 22:07:58  ||  [ДАТА] (старше 5 дней; дата: 2026-10-08T10:23:00+00:00): https://www.kaspersky.ru/about/press-releases/kolichestvo-kiberatak-na-gosuchrezhdeniya-v-rossii-cherez-suyomnye-nositeli-v-2026-godu-vyroslo-na-25
+2026-10-14 22:07:58  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T16:46:00+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-nachala-prodazhi-kaspersky-container-security-cherez-yandex-cloud-marketplace
+2026-10-14 22:07:59  ||  [ДАТА] (старше 5 дней; дата: 2026-09-30T14:36:14.015000+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-pomogla-finn-flare-v-reagirovanii-i-ustranenii-posledstvij-kiberincidenta
+2026-10-14 22:07:59  ||  [ДАТА] (старше 5 дней; дата: 2026-09-29T10:42:00+00:00): https://www.kaspersky.ru/about/press-releases/ya-vash-sosed-moshenniki-pridumali-novuyu-legendu-dlya-soobshenij-v-messendzherah
+2026-10-14 22:07:59  ||  [ДАТА] (старше 5 дней; дата: 2026-10-05T11:34:00+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-preduprezhdaet-o-novoj-volne-moshennicheskih-pisem-s-qr-kodami-ot-imeni-oficialnyh-vedomstv
+2026-10-14 22:07:59  ||  [ДАТА] (старше 5 дней; дата: 2026-09-28T11:17:00+00:00): https://www.kaspersky.ru/about/press-releases/srochnyj-dogovor-trebovaniya-po-kiberzashite-i-vizit-delegacii-laboratoriya-kasperskogo-rasskazala-ob-aktualnyh-legendah-v-celevyh-atakah-na-organizacii
+2026-10-14 22:07:59  ||  [ДАТА] (старше 5 дней; дата: 2026-10-01T12:24:00+00:00): https://www.kaspersky.ru/about/press-releases/dress-kod-i-priglashenie-na-subbotnik-kakie-fishingovye-pisma-chashe-vsego-otkryvayut-sotrudniki-kompanij
+2026-10-14 22:07:59  ||  [ДАТА] (старше 5 дней; дата: 2026-09-25T14:00:00+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-obnaruzhila-sajty-dlya-obmana-rossiyan-planiruyushih-poezdki-v-strany-evropy
+2026-10-14 22:08:00  ||  [ДАТА] (старше 5 дней; дата: 2026-09-24T13:02:00+00:00): https://www.kaspersky.ru/about/press-releases/moshenniki-sozdayut-poddelnye-internet-magaziny-na-starte-oficialnyh-prodazh-iphone-18
+2026-10-14 22:08:00  ||  [ДАТА] (старше 5 дней; дата: 2026-09-29T15:10:39.319000+00:00): https://www.kaspersky.ru/about/press-releases/skolko-stoit-polozhit-sajt-cena-organizacii-ddos-ataki-na-zakaz-nachinaetsya-ot-30-dollarov-ssha
+2026-10-14 22:08:00  ||  [ДАТА] (старше 5 дней; дата: 2026-09-25T12:28:00+00:00): https://www.kaspersky.ru/about/press-releases/podderzhivaya-cifrovoj-poryadok-v-kaspersky-premium-poyavilas-funkciya-ochistki-prilozhenij-dlya-macos
+2026-10-14 22:08:00  ||  [ДАТА] (старше 5 дней; дата: 2026-09-23T12:07:00+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-vystupila-partnyorom-kompetencii-konstruktivnaya-bezopasnost-avtonomnyh-transportnyh-sistem-na-chempionate-vysokih-tehnologij
+2026-10-14 22:08:00  ||  [ДАТА] (старше 5 дней; дата: 2026-09-24T10:26:00+00:00): https://www.kaspersky.ru/about/press-releases/chuzhoj-bedy-ne-byvaet-90-vladelcev-domashnih-zhivotnyh-gotovy-pomogat-iskat-poteryavshihsya-pitomcev
+2026-10-14 22:08:00  ||  [ДАТА] (старше 5 дней; дата: 2026-09-25T16:00:00+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-prisvoila-t1-integraciya-partnyorskij-status-po-tehnicheskoj-specializacii-kics
+2026-10-14 22:08:00  ||  [ДАТА] (старше 5 дней; дата: 2026-09-21T13:00:00+00:00): https://www.kaspersky.ru/about/press-releases/vymogatelstvo-bez-shifrovaniya-laboratoriya-kasperskogo-vyyavila-slozhnuyu-shemu-kiberataki-na-proizvodstvo-napravlennuyu-na-poluchenie-vykupa
+2026-10-14 22:08:01  ||  [ДАТА] (старше 5 дней; дата: 2026-09-18T16:29:00+00:00): https://www.kaspersky.ru/about/press-releases/laboratoriya-kasperskogo-obnaruzhila-fishingovye-sajty-na-temu-vyborov-v-gosdumu
+2026-10-14 22:08:01  ||  [ДАТА] (старше 5 дней; дата: 2026-09-22T10:28:00+00:00): https://www.kaspersky.ru/about/press-releases/60-rossijskih-polzovatelej-stolknulis-s-moshennichestvom-v-seti
+2026-10-14 22:08:01  ||  Свежих ссылок перед проверкой ИИ: 156
+2026-10-14 22:08:01  ||  Фильтрация ссылок по тематике через ИИ
+2026-10-14 22:08:35  ||  Статья подходит тематически: 'Взломщик засветил свой адресОбвиняемый в атаке на ИТ-системы «Додо Пиццы» отправлен под домашний арестПроисшествия14.10.2026, 19:31'
+2026-10-14 22:08:36  ||  Статья подходит тематически: 'Число киберпреступлений в Москве снизилось на 20% за девять месяцевПроисшествия14.10.2026, 14:14'
+2026-10-14 22:08:37  ||  Статья подходит тематически: 'Не съем, так взломаюЧто известно о самой масштабной в истории успешной кибератаке на холодильники торговых сетейМир14.10.2026, 14:21'
+2026-10-14 22:08:38  ||  Статья подходит тематически: 'Путин созвал совещание по кибербезопасности с Бортниковым, Шойгу и НабиуллинойМедиа и Телеком14.10.2026, 13:07'
+2026-10-14 22:08:38  ||  Статья подходит тематически: 'В F6 предупредили о рассылке фейковых QR-кодов после сбоя сервисов «Яндекса»Медиа и Телеком14.10.2026, 10:48'
+2026-10-14 22:08:39  ||  Статья подходит тематически: 'Сотни французских супермаркетов пострадали от хакерской атакиМедиа и Телеком12.10.2026, 16:51'
+2026-10-14 22:08:40  ||  Статья подходит тематически: 'В Польше задержали двух россиян по подозрению в финансовых махинацияхПроисшествия12.10.2026, 11:50'
+2026-10-14 22:08:41  ||  Статья подходит тематически: 'Билл Гейтс предупредил о «множестве неприятных сюрпризов» от ИИ в 2027 годуМедиа и Телеком12.10.2026, 04:59'
+2026-10-14 22:08:42  ||  Статья подходит тематически: 'Владимир Путин проведет совещание по кибербезопасностиВласть11.10.2026, 15:33'
+2026-10-14 22:08:43  ||  Статья подходит тематически: 'До 1,5 млрд рублей за одну атаку. Positive Technologies подсчитала, во что крупным российским компаниям обходятся вымогатели'
+2026-10-14 22:08:44  ||  Статья подходит тематически: 'Рунет лихорадит: Mail.ru, Ozon, «Самокат» и «Сбер» сбоят одновременно'
+2026-10-14 22:08:45  ||  Статья подходит тематически: 'Как сравнивать CDN правильно. TTFB, p95, кеш, DDoS и реальная цена'
+2026-10-14 22:08:45  ||  Статья подходит тематически: 'Взломали Dodo Pizza и спалились на мелочи: как силовики вышли на хакеров'
+2026-10-14 22:08:46  ||  Статья подходит тематически: 'Конец света начнётся с китайской приставки за $55. ИИ осваивает самостоятельное размножение'
+2026-10-14 22:08:47  ||  Статья подходит тематически: 'Яндекс почти перестал обходить сайты. Свежий интернет рискует остаться за бортом'
+2026-10-14 22:08:48  ||  Статья подходит тематически: 'Сварить чуму на кухне под диктовку бота.  В MI5 оценили реальные угрозы нейросетей'
+2026-10-14 22:08:49  ||  Статья подходит тематически: 'Ким Чен Ын нашёл удалённую работу в Америке. ФБР накрыло 40 ферм ноутбуков'
+2026-10-14 22:08:50  ||  Статья подходит тематически: 'Дроны стали слишком быстрыми. Перехватчик Coyote пришлось превратить в ракету'
+2026-10-14 22:08:51  ||  Статья подходит тематически: 'Деньги жертв превращались в виллы. Таиланд раскрыл схему скаммеров на $14,9 миллионов'
+2026-10-14 22:08:52  ||  Статья подходит тематически: 'Король умер, да здравствует фейк, или как хакеры дерутся за бесхозную вывеску ShinyHunters'
+2026-10-14 22:08:53  ||  Статья подходит тематически: 'В Meta украли 99 процентов чистого кода и назвали взлом мелкой неприятностью'
+2026-10-14 22:08:53  ||  Статья подходит тематически: '1411 дыр, 70 критических. Обычный вторник в Microsoft окончательно отменяется'
+2026-10-14 22:08:54  ||  Статья подходит тематически: 'Google передумала экономить на хакерах. Награды за дыры Chrome выросли вчетверо'
+2026-10-14 22:08:55  ||  Статья не подходит тематически: 'Под водой завёлся новый хищник: он мягкий, быстрый... и не живой'
+2026-10-14 22:08:56  ||  Статья подходит тематически: 'Три подростка за полгода построили империю шантажа и сдали спецслужбам всех своих покупателей'
+2026-10-14 22:08:57  ||  Статья подходит тематически: 'Минус четыре дата-центра за четыре дня: Путин экстренно собрал силовиков, ЦБ и главу «Сбера» в закрытом режиме'
+2026-10-14 22:08:58  ||  Статья подходит тематически: 'Неделя высокой моды в даркнете, или почему вслед за ASOS и H&M под раздачу попала империя TFG London'
+2026-10-14 22:08:59  ||  Статья подходит тематически: 'Минцифры готовит резервный аэродром для серверов. Яндекс спасают всей отраслью'
+2026-10-14 22:09:00  ||  Статья подходит тематически: 'Гугл стерли из Рунета одним кликом. Разбираем утренний триллер в доменной зоне .RU'
+2026-10-14 22:09:00  ||  Статья подходит тематически: 'Конец эпохи переклеенных шильдиков. Почему схема с «обрусевшим» NGFW дала фатальную трещину'
+2026-10-14 22:09:01  ||  Статья подходит тематически: 'Четыре хакерские группировки за пару дней собрали кибероружие из свежих заплаток для браузера'
+2026-10-14 22:09:02  ||  Статья подходит тематически: 'Даже Касперский советует снять наушники. Новая атака ворует звук прямо из воздуха'
+2026-10-14 22:09:03  ||  Статья подходит тематически: 'Пять сегментов, один игрок: F6 закрепилась в топе российского рынка ИБ'
+2026-10-14 22:09:04  ||  Статья подходит тематически: 'NetBSD сказала ИИ-коду «нет» и собрала $120 тысяч за месяц'
+2026-10-14 22:09:05  ||  Статья подходит тематически: 'Пароль «123456» слил всю Данию, включая мертвецов. Сбой заметили только по счету за трафик'
+2026-10-14 22:09:06  ||  Статья подходит тематически: 'Intel попыталась улучшить интернет и сломала IPv6 на некоторых ноутбуках'
+2026-10-14 22:09:07  ||  Статья подходит тематически: 'Дроны долетели до Сбера: банк подтвердил атаку на свой дата-центр'
+2026-10-14 22:09:07  ||  Статья подходит тематически: 'Let’s Encrypt готовит 64-дневные HTTPS-сертификаты'
+2026-10-14 22:09:08  ||  Статья подходит тематически: 'Китайский опенсорс умножил на ноль триллионные мечты американских облачных гигантов'
+2026-10-14 22:09:09  ||  Статья подходит тематически: 'Безопасность АСУ ТП и КИИ: регуляторный ландшафт и архитектура практической защиты'
+2026-10-14 22:09:10  ||  Статья подходит тематически: 'Кибер Медиа вместе с экспертами проанализировали актуальные вызовы, стоящие перед промышленными предприятиями, и систематизировали подходы к выстраиванию эшелонированной защиты, отвечающей строгим требованиям регуляторов и реальным потребностям производства.'
+2026-10-14 22:09:11  ||  Статья подходит тематически: 'В России растет спрос на защиту ИИ'
+2026-10-14 22:09:12  ||  Статья подходит тематически: 'Цифровой суверенитет в фокусе: Россия
+2026-10-14 22:09:13  ||  Статья подходит тематически: '«Ростелеком» предложил строить в России «ЦОДы судного дня»'
+2026-10-14 22:09:14  ||  Статья не подходит тематически: 'Российским ИТ-компаниям помогут выйти на зарубежные рынки'
+2026-10-14 22:09:15  ||  Статья не подходит тематически: 'В России могут ограничить дешёвую мобильную связь от банков'
+2026-10-14 22:09:16  ||  Статья подходит тематически: '«РДВ Технолоджи» и «Газинформсервис» успешно протестировали СДЗ SafeNode System Loader на базе сервера «Алтай»'
+2026-10-14 22:09:17  ||  Статья подходит тематически: 'Потери банков от ИБ-инцидентов сократились вдвое в 2026 году'
+2026-10-14 22:09:18  ||  Статья подходит тематически: 'Миграция домена на 300 тыс. пользователей в ALD Pro укладывается в одно ночное окно обслуживания'
+2026-10-14 22:09:19  ||  Статья подходит тематически: 'Последствия атак на дата-центры «Яндекса»: отмена платы за облачные сервисы и продолжающиеся сбои ЦИАН'
+2026-10-14 22:09:19  ||  Статья подходит тематически: 'Эксперты предупредили о вредоносной рассылке под предлогом перерасчёта НДФЛ'
+2026-10-14 22:09:20  ||  Статья не подходит тематически: 'Мировой рынок смартфонов рухнул на 20%: продажи опустились до минимума за 14 лет'
+2026-10-14 22:09:21  ||  Статья подходит тематически: 'Termidesk представила рекомендации по обеспечению отказоустойчивости в гибридной ИТ-инфраструктуре'
+2026-10-14 22:09:22  ||  Статья не подходит тематически: 'Каждый третий российский студент не знает, что делать с будущей карьерой'
+2026-10-14 22:09:23  ||  Статья подходит тематически: 'Шесть простых способов попасть в корпоративную сеть — и что с этим делать'
+2026-10-14 22:09:24  ||  Статья подходит тематически: 'Информационная безопасность'
+2026-10-14 22:09:25  ||  Статья не подходит тематически: 'База знаний об ИИБаза знаний об ИИ'
+2026-10-14 22:09:26  ||  Статья подходит тематически: '«Спикател», Servicepipe'
+2026-10-14 22:09:27  ||  Статья подходит тематически: '«Код Безопасности»'
+2026-10-14 22:09:28  ||  Статья подходит тематически: '«Инфосистемы Джет»'
+2026-10-14 22:09:28  ||  Статья подходит тематически: '«Кибердом», VolgaBlob'
+2026-10-14 22:09:29  ||  Статья подходит тематически: 'AppSec Solutions'
+2026-10-14 22:09:30  ||  Статья подходит тематически: 'Кросс технолоджис'
+2026-10-14 22:09:31  ||  Статья подходит тематически: '«Лаборатория Касперского»'
+2026-10-14 22:09:32  ||  Статья подходит тематически: '«Кросс технолоджис»'
+2026-10-14 22:09:33  ||  Статья подходит тематически: 'HeadHunter, ГК «Солар»'
+2026-10-14 22:09:34  ||  Статья подходит тематически: 'Positive Technologies'
+2026-10-14 22:09:35  ||  Статья подходит тематически: 'Positive Technologies'
+2026-10-14 22:09:36  ||  Статья подходит тематически: '«Код Безопасности»'
+2026-10-14 22:09:37  ||  Статья подходит тематически: '«Кросс технолоджис», Infera Security'
+2026-10-14 22:09:37  ||  Статья подходит тематически: 'Институт экономики роста им.П.А.Столыпина, Фонд развития кибербезопасности «Сайберус»'
+2026-10-14 22:09:38  ||  Статья подходит тематически: '«Кросс технолоджис»'
+2026-10-14 22:09:39  ||  Статья подходит тематически: 'Координационный центр доменов .RU/.РФ'
+2026-10-14 22:09:40  ||  Статья подходит тематически: '«Кросс технолоджис'
+2026-10-14 22:09:41  ||  Статья подходит тематически: 'Ассоциация ФинТех'
+2026-10-14 22:09:42  ||  Статья подходит тематически: 'Positive Technologies'
+2026-10-14 22:09:43  ||  Статья подходит тематически: 'MTS Web Services'
+2026-10-14 22:09:44  ||  Статья подходит тематически: '«Код Безопасности»'
+2026-10-14 22:09:45  ||  Статья подходит тематически: 'Positive Technologies'
+2026-10-14 22:09:46  ||  Статья не подходит тематически: 'ГК «Солар», Kasatkin Сonsulting'
+2026-10-14 22:09:46  ||  Статья подходит тематически: '«Битрикс24», РШУ'
+2026-10-14 22:09:47  ||  Статья подходит тематически: '«К2 Кибербезопасность»'
+2026-10-14 22:09:48  ||  Статья подходит тематически: 'Positive Technologies'
+2026-10-14 22:09:49  ||  Статья подходит тематически: '«Инфосистемы Джет»'
+2026-10-14 22:09:50  ||  Статья подходит тематически: '«Технологии доверия»'
+2026-10-14 22:09:51  ||  Статья подходит тематически: 'Клименко назвал сроки восстановления «Яндекса» после ударов по дата-центрам'
+2026-10-14 22:09:52  ||  Статья подходит тематически: 'Эксперт Муртазин посоветовал не хранить важные данные только в «облаке»'
+2026-10-14 22:09:53  ||  Статья не подходит тематически: 'Исследование TelecomDaily: в сетях 5G скорости достигают 1,5 Гбит/с'
+2026-10-14 22:09:54  ||  Статья не подходит тематически: 'Восстановление работы сервисов «Яндекса» может занять до недели'
+2026-10-14 22:09:55  ||  Статья подходит тематически: 'Из России уходит последняя зарубежная компания, занятая информационной безопасностью'
+2026-10-14 22:09:55  ||  Статья подходит тематически: 'Создатели Firefox выпустили браузер для слежки за пользователями'
+2026-10-14 22:09:56  ||  Статья подходит тематически: 'Популярные криптокошельки Ledger Nano X продавались сразу со шпионским модулем для кражи криптовалюты'
+2026-10-14 22:09:57  ||  Статья подходит тематически: 'В России эпидемия зараженных смартфонов. Мобильников с вирусами стало больше на треть'
+2026-10-14 22:09:58  ||  Статья подходит тематически: '«Кросстех»: спрос на защиту ИИ в III квартале 2026 года вырос на 10%'
+2026-10-14 22:09:59  ||  Статья подходит тематически: '«РДВ Технолоджи» и «Газинформсервис» успешно протестировали СДЗ SafeNode System Loader на базе сервера «Алтай»'
+2026-10-14 22:10:00  ||  Статья подходит тематически: '«Повторите попытку через Google»: мошенники используют для обмана сбои в работе интернет-сервисов'
+2026-10-14 22:10:01  ||  Статья подходит тематически: 'Атакующие почти полностью разрушили 3 из 4 инфраструктур на «Киберарене 2026» в рамках форума GISDAYS'
+2026-10-14 22:10:02  ||  Статья подходит тематически: '«Лаборатория Касперского» предупреждает о вредоносной рассылке под предлогом перерасчета НДФЛ'
+2026-10-14 22:10:03  ||  Статья подходит тематически: 'Компания Red Security запускает подписку на реагирование на киберинциденты'
+2026-10-14 22:10:04  ||  Статья подходит тематически: '«Инфосистемы Джет» провела независимую оценку Solar SIEM: решение рекомендовано для использования в клиентских проектах'
+2026-10-14 22:10:04  ||  Статья подходит тематически: 'Positive Technologies: российские компании теряют до 1,5 млрд рублей из-за программ-вымогателей'
+2026-10-14 22:10:05  ||  Статья подходит тематически: 'Bi.Zone предупреждает об уязвимости в Microchip'
+2026-10-14 22:10:06  ||  Статья не подходит тематически: 'Atlas выпустил серверы хранения Atlas.SL для быстрого возврата из облака на собственную площадку'
+2026-10-14 22:10:07  ||  Статья подходит тематически: 'Security Vision на SOC Forum: кибероперации на скорости ИИ – без потери контроля'
+2026-10-14 22:10:08  ||  Статья подходит тематически: '«АльфаСтрахование»: киберполис окупается при первой же атаке'
+2026-10-14 22:10:09  ||  Статья подходит тематически: 'Скам расправил плечи: как ИИ открыл возможности для мошенников в ИТ-найме'
+2026-10-14 22:10:10  ||  Статья подходит тематически: 'Информационная безопасность*'
+2026-10-14 22:10:11  ||  Статья подходит тематически: 'Парсинг маркетплейсов в 2026: Почему ротация по таймеру работает против парсера'
+2026-10-14 22:10:12  ||  Статья не подходит тематически: 'Блог компании MobileProxy.Space'
+2026-10-14 22:10:13  ||  Статья не подходит тематически: 'Сетевые технологии*'
+2026-10-14 22:10:13  ||  Статья не подходит тематически: 'Как подготовить сайт к отключению дата-центра: чек-лист для бизнеса'
+2026-10-14 22:10:14  ||  Статья подходит тематически: 'Восстановление данных*'
+2026-10-14 22:10:15  ||  Статья подходит тематически: 'Уязвимости по осени считают: дайджест киберугроз сентября 2026'
+2026-10-14 22:10:16  ||  Статья подходит тематически: 'Системное администрирование*'
+2026-10-14 22:10:17  ||  Статья подходит тематически: 'Антивирусная защита*'
+2026-10-14 22:10:18  ||  Статья подходит тематически: 'Быстрее, проще, безопаснее: почему в Kaspersky Container Security проверки пишутся на CEL, а не на Rego'
+2026-10-14 22:10:19  ||  Статья подходит тематически: 'Блог компании «Лаборатория Касперского»'
+2026-10-14 22:10:20  ||  Статья подходит тематически: 'Java Card: создаем Supplementary Security Domain'
+2026-10-14 22:10:21  ||  Статья не подходит тематически: 'Программирование микроконтроллеров*'
+2026-10-14 22:10:22  ||  Статья подходит тематически: 'Тестирование PT NGFW 1.10.3: проверяем заявленные характеристики. Часть 1'
+2026-10-14 22:10:22  ||  Статья не подходит тематически: 'Блог компании Innostage'
+2026-10-14 22:10:23  ||  Статья не подходит тематически: 'Сетевое оборудование'
+2026-10-14 22:10:24  ||  Статья подходит тематически: 'Как построить систему безопасности для AI-платформы в эпоху новых вызовов и угроз'
+2026-10-14 22:10:25  ||  Статья не подходит тематически: 'Искусственный интеллект'
+2026-10-14 22:10:26  ||  Статья не подходит тематически: 'Программирование*'
+2026-10-14 22:10:27  ||  Статья подходит тематически: '«Я не робот»: как ботнеты научились быть людьми'
+2026-10-14 22:10:28  ||  Статья не подходит тематически: 'CTEM без хайпа: что стоит за модной аббревиатурой Gartner и зачем она вам'
+2026-10-14 22:10:29  ||  Статья подходит тематически: 'IT-инфраструктура*'
+2026-10-14 22:10:30  ||  Статья не подходит тематически: 'AudioContext и шрифты: на кого точно не подумаешь если профиль забанят'
+2026-10-14 22:10:31  ||  Статья не подходит тематически: 'Блог компании Антидетект-браузер Aurorium'
+2026-10-14 22:10:32  ||  Статья подходит тематически: 'Читать про пассивные отпечатки'
+2026-10-14 22:10:33  ||  Статья подходит тематически: 'Менеджер задач со сквозным шифрованием для своего сервера, который Claude Code написал за 19 часов'
+2026-10-14 22:10:33  ||  Статья подходит тематически: 'Сбер заблокировал более 11 млн мошеннических звонков с начала года — банк помог сохранить клиентам 220 млрд рублей'
+2026-10-14 22:10:34  ||  Статья подходит тематически: 'OpenAI подала в суд на Apple из-за украденных данных'
+2026-10-14 22:10:35  ||  Статья не подходит тематически: 'В «Максе» расширили возможности для подтверждения личности детей'
+2026-10-14 22:10:36  ||  Статья подходит тематически: '14 октября 2026, 19:21Внешние данные: Путин призвал защитить ключевые сферы от киберагрессииКак будут укреплять цифровой суверенитет России и бороться с «вепонизацией искусственного интеллекта».'
+2026-10-14 22:10:37  ||  Статья подходит тематически: '14 октября 2026, 15:39Хакер взломал государственный реестр Дании и получил доступ к 8,8 млн записейХакер заявил, что получил доступ к государственному реестру Дании, воспользовавшись слабым паролем учетной записи IT-компании Pays ApS. Об этом 13 октября сообщило издание The Register.'
+2026-10-14 22:10:38  ||  Статья подходит тематически: '14 октября 2026, 15:25Путин поручил усилить координацию действий спецслужб и бизнеса против киберугрозНеобходимо повысить координацию совместных действий по противостоянию киберугрозам между правоохранителями, профильными спецслужбами и такими гражданскими структурами, как операторы связи и банки.'
+2026-10-14 22:10:39  ||  Статья подходит тематически: '14 октября 2026, 15:22Путин указал на новый уровень киберугроз на фоне гибридной внешней агрессииКиберугрозы на фоне гибридной внешней агрессии выходят на новый уровень. Об этом 14 октября сообщил президент РФ Владимир Путин.'
+2026-10-14 22:10:40  ||  Статья подходит тематически: '14 октября 2026, 15:20Путин назвал крайне важным вопрос повышения цифровой безопасности в РоссииВопрос повышения цифровой безопасности в России является крайне важным и актуальным. Об этом 14 октября заявил президент РФ Владимир Путин.'
+2026-10-14 22:10:41  ||  Статья не подходит тематически: '14 октября 2026, 12:50Песков указал на угрозы для экономики при использовании ИИ в качестве оружияИспользование искусственного интеллекта (ИИ) в качестве оружия несет риски для экономики любой страны. Об этом 14 октября заявил официальный представитель Кремля Дмитрий Песков.'
+2026-10-14 22:10:42  ||  Статья подходит тематически: '14 октября 2026, 00:02Испортить каникулы: как мошенники используют тему осеннего отдыха детейЗлоумышленники спекулируют на спросе родителей на организацию досуга школьников.'
+2026-10-14 22:10:43  ||  Статья подходит тематически: '13 октября 2026, 15:30«Макс» начал предупреждать пользователей при переходе по подозрительным ссылкамНациональный мессенджер «Макс» стал предупреждать пользователей в случае, если те переходят по подозрительным ссылкам. Об этом 13 октября сообщили в пресс-службе платформы.'
+2026-10-14 22:10:44  ||  Статья подходит тематически: '12 октября 2026, 00:15Билл Гейтс спрогнозировал увеличение числа ИИ-кибератак в следующем годуОснователь Microsoft Билл Гейтс 11 октября предупредил об увеличении числа кибератак с использованием искусственного интеллекта (ИИ) в ближайшем будущем и заявил, что ИИ скоро принесет «множество неприятных сюрпризов» в сфере кибербезопасности.'
+2026-10-14 22:10:45  ||  Статья подходит тематически: '11 октября 2026, 00:02Раздеть до нитки: как мошенники используют тему осенних распродажПотенциальных жертв заманивают обещаниями низких цен и уникальных предложений.'
+2026-10-14 22:10:46  ||  Статья подходит тематически: '10 октября 2026, 05:45В Филадельфии ИИ-модель Anthropic отправила ложное сообщение об убийствеПолиция Филадельфии получила через сайт для сбора сведений о нераскрытых убийствах ложное сообщение, сгенерированное моделью искусственного интеллекта компании Anthropic. Об этом 9 октября сообщает телеканал CBS News со ссылкой на полицию.'
+2026-10-14 22:10:47  ||  Статья подходит тематически: '10 октября 2026, 00:01Обманные пути: операторы зафиксировали спад мошеннических звонковЗлоумышленники начали осваивать новые схемы обмана — что сегодня выходит на первый план .'
+2026-10-14 22:10:48  ||  Статья не подходит тематически: 'Узнать
+                        больше'
+2026-10-14 22:10:49  ||  Статья не подходит тематически: 'Узнать
+                        больше'
+2026-10-14 22:10:50  ||  Статья не подходит тематически: 'Узнать
+                        больше'
+2026-10-14 22:10:51  ||  Статья не подходит тематически: 'Узнать
+                        больше'
+2026-10-14 22:10:52  ||  Статья не подходит тематически: 'Узнать
+                        больше'
+2026-10-14 22:10:53  ||  Статья не подходит тематически: 'Узнать
+                        больше'
+2026-10-14 22:10:53  ||  Статья подходит тематически: '«Лаборатория Касперского» предупреждает о вредоносной рассылке под предлогом перерасчёта НДФЛ'
+2026-10-14 22:10:54  ||  Статья не подходит тематически: 'Каждый третий российский студент не знает, какой может быть его карьера'
+2026-10-14 22:10:55  ||  Статья подходит тематически: 'Kaspersky Vulnerability Management включён в реестр отечественного ПО'
+2026-10-14 22:10:55  ||  ИИ одобрил 125 тематических статей
+2026-10-14 22:10:55  ||  Скачивание текстов одобренных статей
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-14T10:07:17+00:00: Путин созвал совещание по кибербезопасности с Бортниковым, Шойгу и Набиуллиной
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-14T16:31:43+00:00: Взломщик засветил свой адрес
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-14T11:14:42+00:00: Число киберпреступлений в Москве снизилось на 20% за девять месяцев
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-14T11:21:12+00:00: Не съем, так взломаю
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-14T07:48:40+00:00: В F6 предупредили о рассылке фейковых QR-кодов после сбоя сервисов «Яндекса»
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-12T08:50:29+00:00: В Польше задержали двух россиян по подозрению в финансовых махинациях
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-12T13:51:39+00:00: Сотни французских супермаркетов пострадали от хакерской атаки
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-12T01:59:38+00:00: Билл Гейтс предупредил о «множестве неприятных сюрпризов» от ИИ в 2027 году
+2026-10-14 22:10:56  ||  Принята новость от 2026-10-11T12:33:47+00:00: Владимир Путин проведет совещание по кибербезопасности
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-14T11:04:49+00:00: До 1,5 млрд рублей за одну атаку. Positive Technologies подсчитала, во что крупным российским компаниям обходятся вымогатели
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-14T09:45:19+00:00: Рунет лихорадит: Mail.ru, Ozon, «Самокат» и «Сбер» сбоят одновременно
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-14T06:48:00+00:00: Как сравнивать CDN правильно. TTFB, p95, кеш, DDoS и реальная цена
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-14T06:47:32+00:00: Взломали Dodo Pizza и спалились на мелочи: как силовики вышли на хакеров
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-13T19:15:09+00:00: Конец света начнётся с китайской приставки за $55. ИИ осваивает самостоятельное размножение
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-14T19:02:00+00:00: Сварить чуму на кухне под диктовку бота.  В MI5 оценили реальные угрозы нейросетей
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-14T18:32:27+00:00: Ким Чен Ын нашёл удалённую работу в Америке. ФБР накрыло 40 ферм ноутбуков
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-13T18:29:37+00:00: Яндекс почти перестал обходить сайты. Свежий интернет рискует остаться за бортом
+2026-10-14 22:10:57  ||  Принята новость от 2026-10-14T18:04:11+00:00: Дроны стали слишком быстрыми. Перехватчик Coyote пришлось превратить в ракету
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T17:06:52+00:00: Король умер, да здравствует фейк, или как хакеры дерутся за бесхозную вывеску ShinyHunters
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T16:34:18+00:00: В Meta украли 99 процентов чистого кода и назвали взлом мелкой неприятностью
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T16:08:06+00:00: 1411 дыр, 70 критических. Обычный вторник в Microsoft окончательно отменяется
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T17:30:32+00:00: Деньги жертв превращались в виллы. Таиланд раскрыл схему скаммеров на $14,9 миллионов
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T14:29:38+00:00: Три подростка за полгода построили империю шантажа и сдали спецслужбам всех своих покупателей
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T13:32:40+00:00: Неделя высокой моды в даркнете, или почему вслед за ASOS и H&M под раздачу попала империя TFG London
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T14:02:10+00:00: Минус четыре дата-центра за четыре дня: Путин экстренно собрал силовиков, ЦБ и главу «Сбера» в закрытом режиме
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T15:27:55+00:00: Google передумала экономить на хакерах. Награды за дыры Chrome выросли вчетверо
+2026-10-14 22:10:58  ||  Принята новость от 2026-10-14T13:04:30+00:00: Минцифры готовит резервный аэродром для серверов. Яндекс спасают всей отраслью
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T12:38:27+00:00: Гугл стерли из Рунета одним кликом. Разбираем утренний триллер в доменной зоне .RU
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T12:10:43+00:00: Конец эпохи переклеенных шильдиков. Почему схема с «обрусевшим» NGFW дала фатальную трещину
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T11:31:05+00:00: Четыре хакерские группировки за пару дней собрали кибероружие из свежих заплаток для браузера
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T10:41:18+00:00: Даже Касперский советует снять наушники. Новая атака ворует звук прямо из воздуха
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T10:04:21+00:00: NetBSD сказала ИИ-коду «нет» и собрала $120 тысяч за месяц
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T10:18:00+00:00: Пять сегментов, один игрок: F6 закрепилась в топе российского рынка ИБ
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T08:44:26+00:00: Intel попыталась улучшить интернет и сломала IPv6 на некоторых ноутбуках
+2026-10-14 22:10:59  ||  Принята новость от 2026-10-14T08:36:57+00:00: Дроны долетели до Сбера: банк подтвердил атаку на свой дата-центр
+2026-10-14 22:11:00  ||  Принята новость от 2026-10-14T08:12:28+00:00: Let’s Encrypt готовит 64-дневные HTTPS-сертификаты
+2026-10-14 22:11:00  ||  Принята новость от 2026-10-14T09:17:49+00:00: Пароль «123456» слил всю Данию, включая мертвецов. Сбой заметили только по счету за трафик
+2026-10-14 22:11:00  ||  Принята новость от 2026-10-13T00:00:00+00:00: Безопасность АСУ ТП и КИИ: регуляторный ландшафт и архитектура практической защиты
+2026-10-14 22:11:00  ||  Принята новость от 2026-10-14T07:44:38+00:00: Китайский опенсорс умножил на ноль триллионные мечты американских облачных гигантов
+2026-10-14 22:11:01  ||  Принята новость от 2026-10-14T00:00:00+00:00: Цифровой суверенитет в фокусе: Россия, Сербия и Республика Сербская обсудят архитектуру киберзащиты на форуме «Российский промышленник»
+2026-10-14 22:11:01  ||  Принята новость от 2026-10-14T00:00:00+00:00: «РДВ Технолоджи» и «Газинформсервис» успешно протестировали СДЗ SafeNode System Loader на базе сервера «Алтай»
+2026-10-14 22:11:02  ||  Принята новость от 2026-10-14T00:00:00+00:00: Потери банков от ИБ-инцидентов сократились вдвое в 2026 году
+2026-10-14 22:11:02  ||  Принята новость от 2026-10-14T00:00:00+00:00: Миграция домена на 300 тыс. пользователей в ALD Pro укладывается в одно ночное окно обслуживания
+2026-10-14 22:11:02  ||  Принята новость от 2026-10-14T00:00:00+00:00: «Ростелеком» предложил строить в России «ЦОДы судного дня»
+2026-10-14 22:11:02  ||  Принята новость от 2026-10-14T00:00:00+00:00: В России растет спрос на защиту ИИ
+2026-10-14 22:11:02  ||  Принята новость от 2026-10-14T00:00:00+00:00: Последствия атак на дата-центры «Яндекса»: отмена платы за облачные сервисы и продолжающиеся сбои ЦИАН
+2026-10-14 22:11:03  ||  Принята новость от 2026-10-14T00:00:00+00:00: Эксперты предупредили о вредоносной рассылке под предлогом перерасчёта НДФЛ
+2026-10-14 22:11:03  ||  Принята новость от 2026-10-14T00:00:00+00:00: Шесть простых способов попасть в корпоративную сеть — и что с этим делать
+2026-10-14 22:11:03  ||  Принята новость от 2026-10-14T00:00:00+00:00: Termidesk представила рекомендации по обеспечению отказоустойчивости в гибридной ИТ-инфраструктуре
+2026-10-14 22:11:03  ||  Принята новость от 2026-10-14T00:00:00+00:00: Информационная безопасность
+2026-10-14 22:11:04  ||  Принята новость от 2026-10-14T00:00:00+00:00: В I квартале большинство выявленных «Спикател» и Servicepipe DDoS-атак по объему превышали 2 Тбит/с
+2026-10-14 22:11:04  ||  Принята новость от 2026-10-14T00:00:00+00:00: Доля использования NGFW в среде виртуализации выросла с 12% до 22%
+2026-10-14 22:11:04  ||  Принята новость от 2026-10-14T00:00:00+00:00: Рынок информационной безопасности в 2025 году
+2026-10-14 22:11:04  ||  Принята новость от 2026-10-14T00:00:00+00:00: 31% компаний малого и среднего бизнеса выбирают коробочные ИБ-решения из-за экономии
+2026-10-14 22:11:04  ||  Принята новость от 2026-10-14T00:00:00+00:00: За два года число опасных уязвимостей в банковских приложениях выросло с 183 до более чем 2 тыс.
+2026-10-14 22:11:04  ||  Принята новость от 2026-10-14T00:00:00+00:00: В I квартале доля вредоносных ботов в общем объеме бот-активности увеличилась до 70%
+2026-10-14 22:11:04  ||  Принята новость от 2026-10-14T00:00:00+00:00: Ландшафт киберугроз 2025 года
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: Количество кибератак на промышленность выросло на 38% в I квартале 2026 года
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: В 2025 году специалистов по безопасной разработке было в три раза меньше, чем требовалось
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: 80% целевых фишинговых атак, выявленных Positive Technologies, начинались с электронной почты
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: Рынок киберучений в России
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: Среднее время нахождения хакеров в сети российских компаний доходит до 42 дней
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: В I квартале 2026 года число атак на цепочки поставок увеличилось на треть
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: Кибербезопасность в России: сила технологического развития
+2026-10-14 22:11:05  ||  Принята новость от 2026-10-14T00:00:00+00:00: За первые два месяца 2026 года в даркнете появилось около 40 баз данных российских компаний
+2026-10-14 22:11:06  ||  Принята новость от 2026-10-14T00:00:00+00:00: В феврале 2026 года число атак с вредоносным ПО выросло в 3,6 раза
+2026-10-14 22:11:06  ||  Принята новость от 2026-10-13T00:00:00+00:00: ICT.Moscow — ИТ и телеком в Москве
+2026-10-14 22:11:06  ||  Принята новость от 2026-10-14T00:00:00+00:00: Тренды кибербезопасности финансовой отрасли в 2026 году
+2026-10-14 22:11:06  ||  Принята новость от 2026-10-13T00:00:00+00:00: ICT.Moscow — ИТ и телеком в Москве
+2026-10-14 22:11:07  ||  Принята новость от 2026-10-14T00:00:00+00:00: Технологические стратегии бизнеса в России. Кибербезопасность
+2026-10-14 22:11:07  ||  Принята новость от 2026-10-13T00:00:00+00:00: ICT.Moscow — ИТ и телеком в Москве
+2026-10-14 22:11:07  ||  Принята новость от 2026-10-13T00:00:00+00:00: ICT.Moscow — ИТ и телеком в Москве
+2026-10-14 22:11:07  ||  Принята новость от 2026-10-13T00:00:00+00:00: ICT.Moscow — ИТ и телеком в Москве
+2026-10-14 22:11:07  ||  Принята новость от 2026-10-14T00:00:00+00:00: CODE RED 2026: актуальные киберугрозы для российских организаций
+2026-10-14 22:11:07  ||  Принята новость от 2026-10-14T00:00:00+00:00: От DLP к DSP: трансформация подходов к защите данных
+2026-10-14 22:11:07  ||  Принята новость от 2026-10-14T00:00:00+00:00: Восстановление как стратегический аспект киберустойчивости бизнеса
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-13T00:00:00+00:00: ICT.Moscow — ИТ и телеком в Москве
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-12T23:20:00+00:00: Эксперт Муртазин посоветовал не хранить важные данные только в «облаке»
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-13T23:30:00+00:00: Клименко назвал сроки восстановления «Яндекса» после ударов по дата-центрам
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-14T17:11:08+00:00: Из России уходит последняя зарубежная компания, занятая информационной безопасностью
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-13T14:01:26+00:00: Создатели Firefox выпустили браузер для слежки за пользователями
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-12T10:10:09+00:00: В России эпидемия зараженных смартфонов. Мобильников с вирусами стало больше на треть
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-14T17:04:24+00:00: «Кросстех»: спрос на защиту ИИ в III квартале 2026 года вырос на 10%
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-13T11:22:33+00:00: Популярные криптокошельки Ledger Nano X продавались сразу со шпионским модулем для кражи криптовалюты
+2026-10-14 22:11:08  ||  Принята новость от 2026-10-14T14:56:14+00:00: «РДВ Технолоджи» и «Газинформсервис» успешно протестировали СДЗ SafeNode System Loader на базе сервера «Алтай»
+2026-10-14 22:11:09  ||  Принята новость от 2026-10-14T12:46:03+00:00: Компания Red Security запускает подписку на реагирование на киберинциденты
+2026-10-14 22:11:09  ||  Принята новость от 2026-10-14T13:05:42+00:00: «Лаборатория Касперского» предупреждает о вредоносной рассылке под предлогом перерасчета НДФЛ
+2026-10-14 22:11:09  ||  Принята новость от 2026-10-14T13:43:17+00:00: «Повторите попытку через Google»: мошенники используют для обмана сбои в работе интернет-сервисов
+2026-10-14 22:11:09  ||  Принята новость от 2026-10-14T13:30:24+00:00: Атакующие почти полностью разрушили 3 из 4 инфраструктур на «Киберарене 2026» в рамках форума GISDAYS
+2026-10-14 22:11:10  ||  Принята новость от 2026-10-14T12:11:20+00:00: Bi.Zone предупреждает об уязвимости в Microchip
+2026-10-14 22:11:10  ||  Принята новость от 2026-10-14T12:36:20+00:00: «Инфосистемы Джет» провела независимую оценку Solar SIEM: решение рекомендовано для использования в клиентских проектах
+2026-10-14 22:11:10  ||  Принята новость от 2026-10-14T07:09:25+00:00: Security Vision на SOC Forum: кибероперации на скорости ИИ – без потери контроля
+2026-10-14 22:11:10  ||  Принята новость от 2026-10-14T12:35:17+00:00: Positive Technologies: российские компании теряют до 1,5 млрд рублей из-за программ-вымогателей
+2026-10-14 22:11:10  ||  Принята новость от 2026-10-14T18:04:03+00:00: Скам расправил плечи: как ИИ открыл возможности для мошенников в ИТ-найме
+2026-10-14 22:11:10  ||  Принята новость от 2026-10-14T18:00:41+00:00: Парсинг маркетплейсов в 2026: Почему ротация по таймеру работает против парсера
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T18:04:03+00:00: Информационная безопасность *
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-13T17:57:45+00:00: «АльфаСтрахование»: киберполис окупается при первой же атаке
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T15:04:27+00:00: Уязвимости по осени считают: дайджест киберугроз сентября 2026
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T15:29:29+00:00: Восстановление данных *
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T15:04:27+00:00: Антивирусная защита *
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T15:04:27+00:00: Системное администрирование *
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T14:35:29+00:00: Быстрее, проще, безопаснее: почему в Kaspersky Container Security проверки пишутся на CEL, а не на Rego
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T14:35:29+00:00: «Лаборатория Касперского», Москва - Ловим вирусы, исследуем угрозы, спасаем мир / Статьи / Хабр
+2026-10-14 22:11:11  ||  Принята новость от 2026-10-14T10:09:21+00:00: Java Card: создаем Supplementary Security Domain
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T09:48:20+00:00: Тестирование PT NGFW 1.10.3: проверяем заявленные характеристики. Часть 1
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T08:48:58+00:00: Как построить систему безопасности для AI-платформы в эпоху новых вызовов и угроз
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T08:01:04+00:00: «Я не робот»: как ботнеты научились быть людьми
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T04:12:19+00:00: AudioContext и шрифты: на кого точно не подумаешь если профиль забанят
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T16:30:33+00:00: IT-инфраструктура *
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T01:37:04+00:00: Менеджер задач со сквозным шифрованием для своего сервера, который Claude Code написал за 19 часов
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-12T10:09:00+00:00: 
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T16:21:07+00:00: Внешние данные: Путин призвал защитить ключевые сферы от киберагрессии
+2026-10-14 22:11:12  ||  Принята новость от 2026-10-14T17:37:27+00:00: OpenAI подала в суд на Apple из-за украденных данных
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-14T12:39:07+00:00: Хакер взломал государственный реестр Дании и получил доступ к 8,8 млн записей
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-14T12:25:47+00:00: Путин поручил усилить координацию действий спецслужб и бизнеса против киберугроз
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-14T12:22:19+00:00: Путин указал на новый уровень киберугроз на фоне гибридной внешней агрессии
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-14T12:20:09+00:00: Путин назвал крайне важным вопрос повышения цифровой безопасности в России
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-13T21:02:00+00:00: Испортить каникулы: как мошенники используют тему осеннего отдыха детей
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-13T12:30:00+00:00: «Макс» начал предупреждать пользователей при переходе по подозрительным ссылкам
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-10T21:02:00+00:00: Раздеть до нитки: как мошенники используют тему осенних распродаж
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-11T21:15:00+00:00: Билл Гейтс спрогнозировал увеличение числа ИИ-кибератак в следующем году
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-10T02:45:00+00:00: В Филадельфии ИИ-модель Anthropic отправила ложное сообщение об убийстве
+2026-10-14 22:11:13  ||  Принята новость от 2026-10-09T21:01:00+00:00: Обманные пути: операторы зафиксировали спад мошеннических звонков
+2026-10-14 22:11:14  ||  Принята новость от 2026-10-12T12:36:00+00:00: Kaspersky Vulnerability Management включён в реестр отечественного ПО
+2026-10-14 22:11:14  ||  Принята новость от 2026-10-14T12:45:00+00:00: «Лаборатория Касперского» предупреждает о вредоносной рассылке под предлогом перерасчёта НДФЛ
+2026-10-14 22:11:14  ||  Успешно скачано текстов статей: 125
+2026-10-14 22:11:14  ||  Анализ статей и подготовка дайджеста
+2026-10-14 22:11:14  ||  [ДАЙДЖЕСТ] Этап 1/2: выбор до 5 статей из 125
+2026-10-14 22:11:27  ||  [ДАЙДЖЕСТ] Не удалось разобрать ответ модели: "The provided text snippets seem to be excerpts from news articles about cybersecurity and technology. \n\nHere's a breakdown of the topics covered:\n\n* **Legal Disputes:** OpenAI suing Apple over alleged data theft.\n* **Data Breaches:** A hacker breaching a Danish government registry, exposing millions of records.\n* **Cybersecurity Measures:** Putin emphasizing the need for stronger cybersecurity coordination between government". Используются первые статьи как резерв.
+2026-10-14 22:11:27  ||  [ДАЙДЖЕСТ] Выбрано статей: 5. Этап 2/2: отдельный пересказ каждой статьи
+2026-10-14 22:11:27  ||  [ДАЙДЖЕСТ] Обработка статьи 1/5: Путин созвал совещание по кибербезопасности с Бортниковым, Шойгу и Набиуллиной
+2026-10-14 22:11:57  ||  [ДАЙДЖЕСТ] Обработка статьи 2/5: Взломщик засветил свой адрес
+2026-10-14 22:12:26  ||  [ДАЙДЖЕСТ] Обработка статьи 3/5: Число киберпреступлений в Москве снизилось на 20% за девять месяцев
+2026-10-14 22:12:57  ||  [ДАЙДЖЕСТ] Обработка статьи 4/5: Не съем, так взломаю
+2026-10-14 22:13:19  ||  [ДАЙДЖЕСТ] Обработка статьи 5/5: В F6 предупредили о рассылке фейковых QR-кодов после сбоя сервисов «Яндекса»
+2026-10-14 22:13:37  ||  == ФИНАЛЬНЫЙ ДАЙДЖЕСТ ==
+2026-10-14 22:13:37  ||  ## 1. Путин созвал совещание по кибербезопасности с Бортниковым, Шойгу и Набиуллиной
+Дата публикации: 2026-10-14T10:07:17+00:00
+Источник: https://www.kommersant.ru/doc/9026294
+
+СУТЬ: 14 октября 2023 года Владимир Путин созвал совещание по кибербезопасности с участием представителей ключевых министерств и ведомств, включая Дмитрия Медведева, Сергея Шойгу, Дмитрия Григоренко, Микшута Шадаева, Эльвиру Набиуллину и Александра Бортникова.  Совещание будет посвящено готовности ключевых секторов экономики к угрозам информационной безопасности и мерам по ее повышению.  Дмитрий Песков подчеркнул, что тема кибербезопасности все острее стоит на повестке дня из-за использования технологий ИИ как в мирных, так и в военных целях.
+
+ЗАТРОНУТЫ:  
+
+*  Кремль
+*  Совет Безопасности РФ
+*  Министерство обороны РФ
+*  Минцифры РФ
+*  ЦБ РФ
+*  ФСБ РФ
+*  Сбербанк
+*  Яндекс
+
+ПОСЛЕДСТВИЯ: В статье не указано о каких-либо конкретных последствиях совещания.
+
+ВАЖНЫЕ ФАКТЫ: 14 октября 2023 года, беспилотники атаковали дата-центры Сбербанка в Балаково и дата-центры Яндекса в Рязанской, Калужской и Владимирской областях.
+
+ЗНАЧЕНИЕ ДЛЯ ИБ:  Совещание Путина свидетельствует о растущей озабоченности властей вопросами кибербезопасности и необходимости усиления мер защиты ключевых секторов экономики.
+
+АВТОР: Дмитрий Песков
+
+
+## 2. Взломщик засветил свой адрес
+Дата публикации: 2026-10-14T16:31:43+00:00
+Источник: https://www.kommersant.ru/doc/9026680
+
+СУТЬ: В Москве арестован 19-летний Денис Фридман, обвиняемый в кибератаке на ИТ-системы сети ресторанов «Додо Пицца». Фридман — член хакерской группировки DataSuckers, которая также атаковала туроператора Tez Tour. В результате взлома «Додо Пиццы» были похищены персональные данные клиентов, в том числе имена, даты рождения, адреса электронной почты, номера телефонов и данные о заказах. Хакеры получили доступ к системе за счет учетных данных компании, опубликованных на GitHub.
+
+ЗАТРОНУТЫЕ: «Додо Пицца», Tez Tour, GitHub
+
+ПОСЛЕДСТВИЯ: Похищение персональных данных клиентов, утечка данных в даркнет.
+
+ВАЖНЫЕ ФАКТЫ: 28 сентября 2026 года — компания «Додо Пицца» сообщила об взломе. 14 октября 2026 года — арест Дениса Фридмана. 3,7 ТБ информации, около 33 млрд записей, были похищены. 100 тысяч долларов США — сумма, полученная хакерами за базу данных.
+
+ЗНАЧЕНИЕ ДЛЯ ИБ:  Инцидент подчеркивает важность защиты учетных данных и контроля доступа к корпоративным системам.
+
+
+## 3. Число киберпреступлений в Москве снизилось на 20% за девять месяцев
+Дата публикации: 2026-10-14T11:14:42+00:00
+Источник: https://www.kommersant.ru/doc/9026370
+
+СУТЬ: В Москве за 9 месяцев 2026 года зарегистрировано более 34,4 тыс. киберпреступлений, что на 19,7% меньше, чем за аналогичный период 2025 года. Общее число привлеченных к уголовной ответственности за ИКТ-преступления составило более 7,7 тыс. человек.  Показатель раскрываемости ИКТ-преступлений вырос на 4,9%. 68% всех ИКТ-преступлений составляют дистанционные кражи и мошенничества.
+
+ЗАТРОНУТЫЕ: Москва, Россия
+
+ПОСЛЕДСТВИЯ: Снижение числа киберпреступлений на 19,7% за 9 месяцев 2026 года по сравнению с аналогичным периодом 2025 года.
+
+ВАЖНЫЕ ФАКТЫ: 34,4 тыс. киберпреступлений за 9 месяцев 2026 года; 19,7% снижение по сравнению с 2025 годом; более 7,7 тыс. привлеченных к ответственности за ИКТ-преступления; 4,9% рост раскрываемости ИКТ-преступлений; 68% ИКТ-преступлений - дистанционные кражи и мошенничества; более 20,2 тыс. случаев мошенничества; 2,8 тыс. случаев краж за 9 месяцев 2026 года.
+
+ЗНАЧЕНИЕ ДЛЯ ИБ:  Снижение числа киберпреступлений в Москве может быть связано с усилением мер по борьбе с киберпреступностью.  
+
+АВТОР: Никита Черненко
+
+
+## 4. Не съем, так взломаю
+Дата публикации: 2026-10-14T11:21:12+00:00
+Источник: https://www.kommersant.ru/doc/9026320
+
+СУТЬ: В результате кибератаки пострадали холодильники и морозильные камеры минимум 700 магазинов сетей E.Leclerc, Intermarche, Carrefour, Monoprix и Cooperative U во Франции. В результате температура в устройствах поднялась до +50°C, что привело к порче продуктов и в некоторых случаях оплавлению оборудования. Правоохранительные органы Франции возбудили дело по факту взлома систем, но пока не установили организаторов атаки.
+
+ЗАТРОНУТЫЕ: E.Leclerc, Intermarche, Carrefour, Monoprix, Cooperative U, Danfoss, Copeland
+
+ПОСЛЕДСТВИЯ: порча продуктов, оплавление оборудования, пустые полки в магазинах
+
+ВАЖНЫЕ ФАКТЫ: 12 октября, +50°C, более 700 магазинов
+
+ЗНАЧЕНИЕ ДЛЯ ИБ:  Атака подчеркивает важность обновления устаревшего оборудования и устранения уязвимостей, а также необходимость усиления киберзащиты критически важных инфраструктур, таких как системы охлаждения в торговых сетях.
+
+АВТОР:
+
+
+## 5. В F6 предупредили о рассылке фейковых QR-кодов после сбоя сервисов «Яндекса»
+Дата публикации: 2026-10-14T07:48:40+00:00
+Источник: https://www.kommersant.ru/doc/9026114
+
+СУТЬ: Мошенники рассылают фишинговые письма компаниям, маскируя их под сообщения о сбоях сервисов «Яндекса». В письмах содержатся QR-коды, ведущие на сайты для фишинга личных данных и оплаты ложных штрафов. 
+
+ЗАТРОНУТЫЕ: Компании из сфер строительства, электронной коммерции и ретейла, логистики и промышленности, а также сотрудники операторов по обращению с коммунальными отходами.
+
+ПОСЛЕДСТВИЯ: Мошенники могут получить личные данные и деньги от компаний.
+
+ВАЖНЫЕ ФАКТЫ: Схема мошенничества действует с осени 2022 года. Штрафы, указанные в письмах, варьируются от 400 до 600 рублей.
+
+ЗНАЧЕНИЕ ДЛЯ ИБ:  Необходимо повысить осведомленность сотрудников о фишинговых атаках и обучить их распознавать поддельные сообщения.
+
+АВТОР: ТАСС
+
+2026-10-14 22:13:37  ||  Выключение ИИ-движка...
+2026-10-14 22:13:37  ||  ИИ-движок остановлен.
